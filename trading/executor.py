@@ -196,5 +196,5 @@ class OrderExecutor:
             True if approaching market close
         """
         current_time = datetime.now().time()
-        close_time = datetime.strptime("15:20", "%H:%M").time()  # 10 min before actual close
+        close_time = datetime.strptime("15:15", "%H:%M").time()  # 15 min before actual close
         return current_time >= close_time

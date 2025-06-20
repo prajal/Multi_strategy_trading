@@ -106,7 +106,7 @@ STRATEGY_PROFILES = {
 MARKET_CONFIG = {
     'market_open_time': '09:15',
     'market_close_time': '15:30',
-    'auto_square_off_time': '15:20',  # Close positions 10 min before market close
+    'auto_square_off_time': '15:15',  # Close positions 15 min before market close
     'pre_market_start': '09:00',
     'trading_days': [0, 1, 2, 3, 4],  # Monday to Friday
 }

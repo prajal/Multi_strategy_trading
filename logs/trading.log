@@ -1967,3 +1967,2160 @@
 [2025-06-20 11:35:42] INFO: ✅ Historical data: 26 records for 256265
 [2025-06-20 11:35:42] INFO: 📊 Enhanced Signal: SELL (Confidence: 60.0%)
 [2025-06-20 11:35:42] INFO: 🔍 Confirmations: Price Down, Test Signal
+[2025-06-20 11:57:39] INFO: ✅ Loaded balanced strategy profile
+[2025-06-20 11:57:39] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-20 11:57:39] INFO:    SuperTrend: 10/3.0
+[2025-06-20 11:57:39] INFO:    RSI: 14 (30/70)
+[2025-06-20 11:57:39] INFO:    Min confirmations: 3
+[2025-06-20 11:57:39] INFO: ✅ Enhanced position sizer initialized
+[2025-06-20 11:57:39] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:57:39] INFO:    Base position size: 80.0%
+[2025-06-20 11:57:39] INFO: ✅ Enhanced risk manager initialized
+[2025-06-20 11:57:39] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:57:39] INFO:    Max daily loss: 5.0%
+[2025-06-20 11:57:39] INFO:    Max drawdown: 10.0%
+[2025-06-20 11:57:39] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-20 11:57:39] INFO: 📊 Strategy: balanced
+[2025-06-20 11:57:39] INFO: 🎯 Min confirmations: 3
+[2025-06-20 11:57:39] INFO: 💰 Account balance: ₹5,000.00
+[2025-06-20 11:57:39] INFO: 🚀 Starting Enhanced Multi-Indicator Trading Bot
+[2025-06-20 11:57:39] INFO: 📊 Signal Source: NIFTY_50
+[2025-06-20 11:57:39] INFO: 💼 Trading Instrument: NIFTYBEES
+[2025-06-20 11:57:40] INFO: Connected to Kite as: Prajal Kulkarni
+[2025-06-20 11:57:40] INFO: ✅ OrderExecutor initialized
+[2025-06-20 11:57:40] INFO: ✅ Trading connections established
+[2025-06-20 11:57:40] INFO: ✅ Enhanced trading bot is now running (test mode)...
+[2025-06-20 11:57:40] INFO: 🛑 Press Ctrl+C to stop
+[2025-06-20 11:57:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 11:58:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 11:58:28] INFO: 🛑 Shutdown signal received
+[2025-06-20 11:58:28] INFO: 📅 Enhanced trading session ended
+[2025-06-20 11:58:30] INFO: Connected to Kite as: Prajal Kulkarni
+[2025-06-20 11:58:31] INFO: ✅ Loaded balanced strategy profile
+[2025-06-20 11:58:31] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-20 11:58:31] INFO:    SuperTrend: 10/3.0
+[2025-06-20 11:58:31] INFO:    RSI: 14 (30/70)
+[2025-06-20 11:58:31] INFO:    Min confirmations: 3
+[2025-06-20 11:58:31] INFO: ✅ Enhanced position sizer initialized
+[2025-06-20 11:58:31] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:58:31] INFO:    Base position size: 80.0%
+[2025-06-20 11:58:31] INFO: ✅ Enhanced risk manager initialized
+[2025-06-20 11:58:31] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:58:31] INFO:    Max daily loss: 5.0%
+[2025-06-20 11:58:31] INFO:    Max drawdown: 10.0%
+[2025-06-20 11:58:31] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-20 11:58:31] INFO: 📊 Strategy: balanced
+[2025-06-20 11:58:31] INFO: 🎯 Min confirmations: 3
+[2025-06-20 11:58:31] INFO: 💰 Account balance: ₹5,000.00
+[2025-06-20 11:58:31] INFO: ✅ OrderExecutor initialized
+[2025-06-20 11:58:31] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 11:58:31] INFO: 📊 Enhanced Signal: BUY (Confidence: 60.0%)
+[2025-06-20 11:58:31] INFO: 🔍 Confirmations: Price Up, Test Signal
+[2025-06-20 11:59:09] INFO: ✅ Loaded balanced strategy profile
+[2025-06-20 11:59:09] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-20 11:59:09] INFO:    SuperTrend: 10/3.0
+[2025-06-20 11:59:09] INFO:    RSI: 14 (30/70)
+[2025-06-20 11:59:09] INFO:    Min confirmations: 3
+[2025-06-20 11:59:09] INFO: ✅ Enhanced position sizer initialized
+[2025-06-20 11:59:09] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:59:09] INFO:    Base position size: 80.0%
+[2025-06-20 11:59:09] INFO: ✅ Enhanced risk manager initialized
+[2025-06-20 11:59:09] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:59:09] INFO:    Max daily loss: 5.0%
+[2025-06-20 11:59:09] INFO:    Max drawdown: 10.0%
+[2025-06-20 11:59:09] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-20 11:59:09] INFO: 📊 Strategy: balanced
+[2025-06-20 11:59:09] INFO: 🎯 Min confirmations: 3
+[2025-06-20 11:59:09] INFO: 💰 Account balance: ₹5,000.00
+[2025-06-20 11:59:09] INFO: 🚀 Starting Enhanced Multi-Indicator Trading Bot
+[2025-06-20 11:59:09] INFO: 📊 Signal Source: NIFTY_50
+[2025-06-20 11:59:09] INFO: 💼 Trading Instrument: NIFTYBEES
+[2025-06-20 11:59:09] INFO: Connected to Kite as: Prajal Kulkarni
+[2025-06-20 11:59:09] INFO: ✅ OrderExecutor initialized
+[2025-06-20 11:59:09] INFO: ✅ Trading connections established
+[2025-06-20 11:59:09] INFO: ✅ Enhanced trading bot is now running (test mode)...
+[2025-06-20 11:59:09] INFO: 🛑 Press Ctrl+C to stop
+[2025-06-20 11:59:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 11:59:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:00:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:00:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:01:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:01:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:02:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:02:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:03:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:03:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:04:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:04:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:05:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:05:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:06:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:06:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:07:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:07:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:08:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:08:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:09:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:09:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:10:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:10:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:11:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:11:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:12:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:12:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:13:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:13:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:14:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:14:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:15:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:15:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:16:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:16:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:17:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:17:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:18:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:18:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:19:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:19:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:20:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:20:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:21:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:21:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:22:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:22:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:23:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:23:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:24:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:24:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:25:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:25:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:26:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:26:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:27:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:27:39] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:28:09] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:28:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:29:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:29:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:30:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:30:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:31:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:31:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:32:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:32:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:33:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:33:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:34:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:34:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:35:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:35:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:36:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:36:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:37:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:37:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:38:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:38:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:39:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:39:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:40:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:40:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:41:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:41:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:42:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:42:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:43:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:43:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:44:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:44:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:45:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:45:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:46:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:46:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:47:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:47:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:48:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:48:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:49:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:49:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:50:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:50:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:51:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:51:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:52:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:52:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:53:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:53:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:54:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:54:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:55:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:55:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:56:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:56:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:57:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:57:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:58:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:58:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:59:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 12:59:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:00:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:00:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:01:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:01:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:02:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:02:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:03:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:03:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:04:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:04:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:05:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:05:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:06:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:06:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:07:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:07:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:08:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:08:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:09:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:09:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:10:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:10:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:11:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:11:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:12:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:12:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:13:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:13:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:14:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:14:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:15:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:15:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:16:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:16:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:17:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:17:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:18:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:18:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:19:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:19:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:20:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:20:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:21:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:21:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:22:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:22:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:23:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:23:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:24:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:24:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:25:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:25:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:26:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:26:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:27:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:27:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:28:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:28:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:29:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:29:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:30:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:30:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:31:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:31:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:32:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:32:40] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:33:10] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:33:41] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:34:11] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:34:41] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:35:11] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:35:41] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:36:11] INFO: 📊 Enhanced bot is monitoring market...
+[2025-06-20 13:36:16] INFO: 🛑 Shutdown signal received
+[2025-06-20 13:36:16] INFO: 📅 Enhanced trading session ended
+[2025-06-20 13:36:41] INFO: ✅ Loaded balanced strategy profile
+[2025-06-20 13:36:41] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-20 13:36:41] INFO:    SuperTrend: 10/3.0
+[2025-06-20 13:36:41] INFO:    RSI: 14 (30/70)
+[2025-06-20 13:36:41] INFO:    Min confirmations: 3
+[2025-06-20 13:36:41] INFO: ✅ Enhanced position sizer initialized
+[2025-06-20 13:36:41] INFO:    Max risk per trade: 2.0%
+[2025-06-20 13:36:41] INFO:    Base position size: 80.0%
+[2025-06-20 13:36:41] INFO: ✅ Enhanced risk manager initialized
+[2025-06-20 13:36:41] INFO:    Max risk per trade: 2.0%
+[2025-06-20 13:36:41] INFO:    Max daily loss: 5.0%
+[2025-06-20 13:36:41] INFO:    Max drawdown: 10.0%
+[2025-06-20 13:36:41] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-20 13:36:41] INFO: 📊 Strategy: balanced
+[2025-06-20 13:36:41] INFO: 🎯 Min confirmations: 3
+[2025-06-20 13:36:41] INFO: 💰 Account balance: ₹5,000.00
+[2025-06-20 13:36:41] INFO: 🚀 Starting Enhanced Multi-Indicator Trading Bot
+[2025-06-20 13:36:41] INFO: 📊 Signal Source: NIFTY_50
+[2025-06-20 13:36:41] INFO: 💼 Trading Instrument: NIFTYBEES
+[2025-06-20 13:36:42] INFO: Connected to Kite as: Prajal Kulkarni
+[2025-06-20 13:36:42] INFO: ✅ OrderExecutor initialized
+[2025-06-20 13:36:42] INFO: ✅ Trading connections established
+[2025-06-20 13:36:42] INFO: ✅ Enhanced trading bot is now running (LIVE MODE)...
+[2025-06-20 13:36:42] INFO: 🛑 Press Ctrl+C to stop
+[2025-06-20 13:36:42] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:36:42] INFO: 📊 Enhanced Signal: BUY (Confidence: 60.0%)
+[2025-06-20 13:36:42] INFO: 🔍 Confirmations: Price Up, Test Signal
+[2025-06-20 13:36:42] INFO: 📊 Signal Change: HOLD → BUY
+[2025-06-20 13:36:42] INFO: 💰 Current Price: ₹25061.15
+[2025-06-20 13:36:42] INFO: 🎯 Confidence: 60.0%
+[2025-06-20 13:36:42] INFO: ✅ Confirmations: Price Up, Test Signal
+[2025-06-20 13:36:42] INFO: 🟢 BUY ENTRY SIGNAL DETECTED
+[2025-06-20 13:36:42] INFO: 📋 Trade Details:
+[2025-06-20 13:36:42] INFO:    Quantity: 0 shares
+[2025-06-20 13:36:42] INFO:    Price: ₹25061.15
+[2025-06-20 13:36:42] INFO:    Trade Value: ₹0.00
+[2025-06-20 13:36:42] INFO:    Margin Required: ₹0.00
+[2025-06-20 13:36:42] INFO:    Confidence: 60.0%
+[2025-06-20 13:36:42] INFO:    Risk: 0.0%
+[2025-06-20 13:36:42] INFO:    Stop Loss: ₹24058.70
+[2025-06-20 13:36:42] ERROR: ❌ Order failed: BUY 0 NIFTYBEES - Error: Invalid `quantity`.
+[2025-06-20 13:36:42] ERROR: ❌ Order placement failed
+[2025-06-20 13:37:12] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:37:12] INFO: 📊 Enhanced Signal: BUY (Confidence: 60.0%)
+[2025-06-20 13:37:12] INFO: 🔍 Confirmations: Price Up, Test Signal
+[2025-06-20 13:37:12] INFO: 🟢 BUY ENTRY SIGNAL DETECTED
+[2025-06-20 13:37:12] INFO: 📋 Trade Details:
+[2025-06-20 13:37:12] INFO:    Quantity: 0 shares
+[2025-06-20 13:37:12] INFO:    Price: ₹25055.05
+[2025-06-20 13:37:12] INFO:    Trade Value: ₹0.00
+[2025-06-20 13:37:12] INFO:    Margin Required: ₹0.00
+[2025-06-20 13:37:12] INFO:    Confidence: 60.0%
+[2025-06-20 13:37:12] INFO:    Risk: 0.0%
+[2025-06-20 13:37:12] INFO:    Stop Loss: ₹24052.85
+[2025-06-20 13:37:12] ERROR: ❌ Order failed: BUY 0 NIFTYBEES - Error: Invalid `quantity`.
+[2025-06-20 13:37:12] ERROR: ❌ Order placement failed
+[2025-06-20 13:37:42] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:37:42] INFO: 📊 Enhanced Signal: BUY (Confidence: 60.0%)
+[2025-06-20 13:37:42] INFO: 🔍 Confirmations: Price Up, Test Signal
+[2025-06-20 13:37:42] INFO: 🟢 BUY ENTRY SIGNAL DETECTED
+[2025-06-20 13:37:42] INFO: 📋 Trade Details:
+[2025-06-20 13:37:42] INFO:    Quantity: 0 shares
+[2025-06-20 13:37:42] INFO:    Price: ₹25053.45
+[2025-06-20 13:37:42] INFO:    Trade Value: ₹0.00
+[2025-06-20 13:37:42] INFO:    Margin Required: ₹0.00
+[2025-06-20 13:37:42] INFO:    Confidence: 60.0%
+[2025-06-20 13:37:42] INFO:    Risk: 0.0%
+[2025-06-20 13:37:42] INFO:    Stop Loss: ₹24051.31
+[2025-06-20 13:37:42] ERROR: ❌ Order failed: BUY 0 NIFTYBEES - Error: Invalid `quantity`.
+[2025-06-20 13:37:42] ERROR: ❌ Order placement failed
+[2025-06-20 13:38:12] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:38:12] INFO: 📊 Enhanced Signal: BUY (Confidence: 60.0%)
+[2025-06-20 13:38:12] INFO: 🔍 Confirmations: Price Up, Test Signal
+[2025-06-20 13:38:12] INFO: 🟢 BUY ENTRY SIGNAL DETECTED
+[2025-06-20 13:38:12] INFO: 📋 Trade Details:
+[2025-06-20 13:38:12] INFO:    Quantity: 0 shares
+[2025-06-20 13:38:12] INFO:    Price: ₹25058.80
+[2025-06-20 13:38:12] INFO:    Trade Value: ₹0.00
+[2025-06-20 13:38:12] INFO:    Margin Required: ₹0.00
+[2025-06-20 13:38:12] INFO:    Confidence: 60.0%
+[2025-06-20 13:38:12] INFO:    Risk: 0.0%
+[2025-06-20 13:38:12] INFO:    Stop Loss: ₹24056.45
+[2025-06-20 13:38:12] ERROR: ❌ Order failed: BUY 0 NIFTYBEES - Error: Invalid `quantity`.
+[2025-06-20 13:38:12] ERROR: ❌ Order placement failed
+[2025-06-20 13:38:42] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:38:42] INFO: 📊 Enhanced Signal: BUY (Confidence: 60.0%)
+[2025-06-20 13:38:42] INFO: 🔍 Confirmations: Price Up, Test Signal
+[2025-06-20 13:38:42] INFO: 🟢 BUY ENTRY SIGNAL DETECTED
+[2025-06-20 13:38:42] INFO: 📋 Trade Details:
+[2025-06-20 13:38:42] INFO:    Quantity: 0 shares
+[2025-06-20 13:38:42] INFO:    Price: ₹25055.85
+[2025-06-20 13:38:42] INFO:    Trade Value: ₹0.00
+[2025-06-20 13:38:42] INFO:    Margin Required: ₹0.00
+[2025-06-20 13:38:42] INFO:    Confidence: 60.0%
+[2025-06-20 13:38:42] INFO:    Risk: 0.0%
+[2025-06-20 13:38:42] INFO:    Stop Loss: ₹24053.62
+[2025-06-20 13:38:42] ERROR: ❌ Order failed: BUY 0 NIFTYBEES - Error: Invalid `quantity`.
+[2025-06-20 13:38:42] ERROR: ❌ Order placement failed
+[2025-06-20 13:39:12] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:39:12] INFO: 📊 Enhanced Signal: BUY (Confidence: 60.0%)
+[2025-06-20 13:39:12] INFO: 🔍 Confirmations: Price Up, Test Signal
+[2025-06-20 13:39:12] INFO: 🟢 BUY ENTRY SIGNAL DETECTED
+[2025-06-20 13:39:12] INFO: 📋 Trade Details:
+[2025-06-20 13:39:12] INFO:    Quantity: 0 shares
+[2025-06-20 13:39:12] INFO:    Price: ₹25058.10
+[2025-06-20 13:39:12] INFO:    Trade Value: ₹0.00
+[2025-06-20 13:39:12] INFO:    Margin Required: ₹0.00
+[2025-06-20 13:39:12] INFO:    Confidence: 60.0%
+[2025-06-20 13:39:12] INFO:    Risk: 0.0%
+[2025-06-20 13:39:12] INFO:    Stop Loss: ₹24055.78
+[2025-06-20 13:39:12] ERROR: ❌ Order failed: BUY 0 NIFTYBEES - Error: Invalid `quantity`.
+[2025-06-20 13:39:12] ERROR: ❌ Order placement failed
+[2025-06-20 13:39:43] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:39:43] INFO: 📊 Enhanced Signal: BUY (Confidence: 60.0%)
+[2025-06-20 13:39:43] INFO: 🔍 Confirmations: Price Up, Test Signal
+[2025-06-20 13:39:43] INFO: 🟢 BUY ENTRY SIGNAL DETECTED
+[2025-06-20 13:39:43] INFO: 📋 Trade Details:
+[2025-06-20 13:39:43] INFO:    Quantity: 0 shares
+[2025-06-20 13:39:43] INFO:    Price: ₹25054.20
+[2025-06-20 13:39:43] INFO:    Trade Value: ₹0.00
+[2025-06-20 13:39:43] INFO:    Margin Required: ₹0.00
+[2025-06-20 13:39:43] INFO:    Confidence: 60.0%
+[2025-06-20 13:39:43] INFO:    Risk: 0.0%
+[2025-06-20 13:39:43] INFO:    Stop Loss: ₹24052.03
+[2025-06-20 13:39:43] ERROR: ❌ Order failed: BUY 0 NIFTYBEES - Error: Invalid `quantity`.
+[2025-06-20 13:39:43] ERROR: ❌ Order placement failed
+[2025-06-20 13:40:13] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:40:13] INFO: 📊 Enhanced Signal: BUY (Confidence: 60.0%)
+[2025-06-20 13:40:13] INFO: 🔍 Confirmations: Price Up, Test Signal
+[2025-06-20 13:40:13] INFO: 🟢 BUY ENTRY SIGNAL DETECTED
+[2025-06-20 13:40:13] INFO: 📋 Trade Details:
+[2025-06-20 13:40:13] INFO:    Quantity: 0 shares
+[2025-06-20 13:40:13] INFO:    Price: ₹25050.30
+[2025-06-20 13:40:13] INFO:    Trade Value: ₹0.00
+[2025-06-20 13:40:13] INFO:    Margin Required: ₹0.00
+[2025-06-20 13:40:13] INFO:    Confidence: 60.0%
+[2025-06-20 13:40:13] INFO:    Risk: 0.0%
+[2025-06-20 13:40:13] INFO:    Stop Loss: ₹24048.29
+[2025-06-20 13:40:13] ERROR: ❌ Order failed: BUY 0 NIFTYBEES - Error: Invalid `quantity`.
+[2025-06-20 13:40:13] ERROR: ❌ Order placement failed
+[2025-06-20 13:40:28] INFO: 🛑 Shutdown signal received
+[2025-06-20 13:40:28] INFO: 📅 Enhanced trading session ended
+[2025-06-20 13:42:00] INFO: ✅ Loaded balanced strategy profile
+[2025-06-20 13:42:00] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-20 13:42:00] INFO:    SuperTrend: 10/3.0
+[2025-06-20 13:42:00] INFO:    RSI: 14 (30/70)
+[2025-06-20 13:42:00] INFO:    Min confirmations: 3
+[2025-06-20 13:42:00] INFO: ✅ Enhanced position sizer initialized
+[2025-06-20 13:42:00] INFO:    Max risk per trade: 2.0%
+[2025-06-20 13:42:00] INFO:    Base position size: 80.0%
+[2025-06-20 13:42:00] INFO: ✅ Enhanced risk manager initialized
+[2025-06-20 13:42:00] INFO:    Max risk per trade: 2.0%
+[2025-06-20 13:42:00] INFO:    Max daily loss: 5.0%
+[2025-06-20 13:42:00] INFO:    Max drawdown: 10.0%
+[2025-06-20 13:42:00] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-20 13:42:00] INFO: 📊 Strategy: balanced
+[2025-06-20 13:42:00] INFO: 🎯 Min confirmations: 3
+[2025-06-20 13:42:00] INFO: 💰 Account balance: ₹5,000.00
+[2025-06-20 13:42:00] INFO: 🚀 Starting Enhanced Multi-Indicator Trading Bot
+[2025-06-20 13:42:00] INFO: 📊 Signal Source: NIFTY_50
+[2025-06-20 13:42:00] INFO: 💼 Trading Instrument: NIFTYBEES
+[2025-06-20 13:42:00] INFO: Connected to Kite as: Prajal Kulkarni
+[2025-06-20 13:42:00] INFO: ✅ OrderExecutor initialized
+[2025-06-20 13:42:00] INFO: ✅ Trading connections established
+[2025-06-20 13:42:00] INFO: 🔍 Signal Token: 256265 (NIFTY_50)
+[2025-06-20 13:42:00] INFO: 💼 Trading Token: 2707457 (NIFTYBEES)
+[2025-06-20 13:42:00] INFO: ✅ Enhanced trading bot is now running (LIVE MODE)...
+[2025-06-20 13:42:00] INFO: 🛑 Press Ctrl+C to stop
+[2025-06-20 13:42:01] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:42:01] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:42:01] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 13:42:01] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:42:01] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:42:01] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:42:01] INFO: 💰 Price: ₹25039.50 | SuperTrend: ₹24857.48
+[2025-06-20 13:42:01] INFO: 📊 RSI: 74.0 | ATR: ₹59.61
+[2025-06-20 13:42:01] INFO: 📊 Signal Change: HOLD → BUY
+[2025-06-20 13:42:01] INFO: 📈 NIFTY 50: ₹25039.50
+[2025-06-20 13:42:01] INFO: 💰 NIFTYBEES: ₹280.75
+[2025-06-20 13:42:01] INFO: 🎯 Confidence: 41.7%
+[2025-06-20 13:42:01] INFO: ✅ Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:42:01] INFO: 📊 ATR Analysis: NIFTY ATR: ₹59.61 → NIFTYBEES ATR: ₹4.21
+[2025-06-20 13:42:01] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-20 13:42:01] INFO:    Account: ₹5,000.00
+[2025-06-20 13:42:01] INFO:    Price: ₹280.75
+[2025-06-20 13:42:01] INFO:    ATR: ₹4.21
+[2025-06-20 13:42:01] INFO:    Confidence: 41.7%
+[2025-06-20 13:42:01] INFO: 📊 Calculated Position:
+[2025-06-20 13:42:01] INFO:    Quantity: 11 shares
+[2025-06-20 13:42:01] INFO:    Margin: ₹617.65
+[2025-06-20 13:42:01] INFO:    Trade Value: ₹3,088.25
+[2025-06-20 13:42:01] INFO:    Risk: 1.9%
+[2025-06-20 13:42:01] INFO:    Leverage: 5.0x
+[2025-06-20 13:42:01] INFO: 🟢 BUY ENTRY SIGNAL DETECTED
+[2025-06-20 13:42:01] INFO: 📋 Trade Details:
+[2025-06-20 13:42:01] INFO:    Instrument: NIFTYBEES
+[2025-06-20 13:42:01] INFO:    Quantity: 11 shares
+[2025-06-20 13:42:01] INFO:    Price: ₹280.75
+[2025-06-20 13:42:01] INFO:    Trade Value: ₹3,088.25
+[2025-06-20 13:42:01] INFO:    Margin Required: ₹617.65
+[2025-06-20 13:42:01] INFO:    Confidence: 41.7%
+[2025-06-20 13:42:01] INFO:    Risk: 1.9%
+[2025-06-20 13:42:01] INFO:    Stop Loss: ₹272.33
+[2025-06-20 13:42:01] INFO:    ATR: ₹4.21
+[2025-06-20 13:42:01] INFO: ✅ Order placed: BUY 11 NIFTYBEES - ID: 250620401028851
+[2025-06-20 13:42:01] INFO: 📈 Trade count today: 1/5
+[2025-06-20 13:42:01] INFO: ✅ POSITION OPENED: 11 NIFTYBEES at ₹280.75
+[2025-06-20 13:42:01] INFO: 📋 Order ID: 250620401028851
+[2025-06-20 13:42:31] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:42:31] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:42:31] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 13:42:31] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:42:31] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:42:31] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:42:31] INFO: 💰 Price: ₹25035.90 | SuperTrend: ₹24855.36
+[2025-06-20 13:42:31] INFO: 📊 RSI: 73.6 | ATR: ₹59.80
+[2025-06-20 13:43:01] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:43:01] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:43:01] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 13:43:01] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:43:01] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:43:01] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:43:01] INFO: 💰 Price: ₹25046.50 | SuperTrend: ₹24855.36
+[2025-06-20 13:43:01] INFO: 📊 RSI: 74.4 | ATR: ₹59.80
+[2025-06-20 13:43:31] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:43:32] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:43:32] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 13:43:32] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:43:32] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:43:32] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:43:32] INFO: 💰 Price: ₹25046.55 | SuperTrend: ₹24855.36
+[2025-06-20 13:43:32] INFO: 📊 RSI: 74.4 | ATR: ₹59.80
+[2025-06-20 13:44:02] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:44:02] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:44:02] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 13:44:02] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:44:02] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:44:02] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:44:02] INFO: 💰 Price: ₹25049.30 | SuperTrend: ₹24855.36
+[2025-06-20 13:44:02] INFO: 📊 RSI: 74.5 | ATR: ₹59.80
+[2025-06-20 13:44:32] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:44:32] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:44:32] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 13:44:32] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:44:32] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:44:32] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:44:32] INFO: 💰 Price: ₹25048.75 | SuperTrend: ₹24855.36
+[2025-06-20 13:44:32] INFO: 📊 RSI: 74.5 | ATR: ₹59.80
+[2025-06-20 13:45:02] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 13:45:02] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:45:02] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 13:45:02] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:45:02] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:45:02] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:45:02] INFO: 💰 Price: ₹25046.60 | SuperTrend: ₹24855.36
+[2025-06-20 13:45:02] INFO: 📊 RSI: 74.4 | ATR: ₹59.80
+[2025-06-20 13:45:33] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:45:33] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:45:33] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:45:33] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:45:33] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:45:33] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:45:33] INFO: 💰 Price: ₹25049.10 | SuperTrend: ₹24867.84
+[2025-06-20 13:45:33] INFO: 📊 RSI: 75.3 | ATR: ₹58.56
+[2025-06-20 13:46:03] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:46:03] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:46:03] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:46:03] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:46:03] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:46:03] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:46:03] INFO: 💰 Price: ₹25049.85 | SuperTrend: ₹24866.84
+[2025-06-20 13:46:03] INFO: 📊 RSI: 75.3 | ATR: ₹58.65
+[2025-06-20 13:46:33] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:46:33] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:46:33] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:46:33] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:46:33] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:46:33] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:46:33] INFO: 💰 Price: ₹25043.45 | SuperTrend: ₹24865.03
+[2025-06-20 13:46:33] INFO: 📊 RSI: 74.6 | ATR: ₹58.85
+[2025-06-20 13:47:03] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:47:03] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:47:04] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:47:04] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:47:04] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:47:04] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:47:04] INFO: 💰 Price: ₹25048.00 | SuperTrend: ₹24864.88
+[2025-06-20 13:47:04] INFO: 📊 RSI: 75.2 | ATR: ₹58.86
+[2025-06-20 13:47:34] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:47:34] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:47:34] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:47:34] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:47:34] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:47:34] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:47:34] INFO: 💰 Price: ₹25050.25 | SuperTrend: ₹24864.88
+[2025-06-20 13:47:34] INFO: 📊 RSI: 75.4 | ATR: ₹58.86
+[2025-06-20 13:48:04] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:48:04] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:48:04] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:48:04] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:48:04] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:48:04] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:48:04] INFO: 💰 Price: ₹25050.65 | SuperTrend: ₹24864.90
+[2025-06-20 13:48:04] INFO: 📊 RSI: 75.4 | ATR: ₹58.87
+[2025-06-20 13:48:34] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:48:34] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:48:34] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:48:34] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:48:34] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:48:34] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:48:34] INFO: 💰 Price: ₹25049.75 | SuperTrend: ₹24865.16
+[2025-06-20 13:48:34] INFO: 📊 RSI: 75.3 | ATR: ₹58.96
+[2025-06-20 13:49:04] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:49:05] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:49:05] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:49:05] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:49:05] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:49:05] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:49:05] INFO: 💰 Price: ₹25050.15 | SuperTrend: ₹24865.16
+[2025-06-20 13:49:05] INFO: 📊 RSI: 75.3 | ATR: ₹58.96
+[2025-06-20 13:49:35] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:49:35] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:49:35] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:49:35] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:49:35] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:49:35] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:49:35] INFO: 💰 Price: ₹25051.20 | SuperTrend: ₹24865.16
+[2025-06-20 13:49:35] INFO: 📊 RSI: 75.4 | ATR: ₹58.96
+[2025-06-20 13:50:05] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:50:05] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:50:05] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:50:05] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:50:05] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:50:05] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:50:05] INFO: 💰 Price: ₹25052.05 | SuperTrend: ₹24865.33
+[2025-06-20 13:50:05] INFO: 📊 RSI: 75.4 | ATR: ₹59.03
+[2025-06-20 13:50:36] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:50:36] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:50:36] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:50:36] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:50:36] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:50:36] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:50:36] INFO: 💰 Price: ₹25051.05 | SuperTrend: ₹24865.39
+[2025-06-20 13:50:36] INFO: 📊 RSI: 75.4 | ATR: ₹59.05
+[2025-06-20 13:51:06] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:51:06] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:51:06] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:51:06] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:51:06] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:51:06] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:51:06] INFO: 💰 Price: ₹25046.10 | SuperTrend: ₹24865.39
+[2025-06-20 13:51:06] INFO: 📊 RSI: 75.0 | ATR: ₹59.05
+[2025-06-20 13:51:36] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:51:36] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:51:36] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:51:36] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:51:36] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:51:36] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:51:36] INFO: 💰 Price: ₹25048.20 | SuperTrend: ₹24865.39
+[2025-06-20 13:51:36] INFO: 📊 RSI: 75.3 | ATR: ₹59.05
+[2025-06-20 13:52:06] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:52:07] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:52:07] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:52:07] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:52:07] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:52:07] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:52:07] INFO: 💰 Price: ₹25046.20 | SuperTrend: ₹24865.39
+[2025-06-20 13:52:07] INFO: 📊 RSI: 75.0 | ATR: ₹59.05
+[2025-06-20 13:52:37] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:52:37] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:52:37] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:52:37] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:52:37] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:52:37] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:52:37] INFO: 💰 Price: ₹25049.55 | SuperTrend: ₹24865.39
+[2025-06-20 13:52:37] INFO: 📊 RSI: 75.3 | ATR: ₹59.05
+[2025-06-20 13:53:07] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:53:07] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:53:07] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:53:07] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:53:07] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:53:07] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:53:07] INFO: 💰 Price: ₹25052.15 | SuperTrend: ₹24865.39
+[2025-06-20 13:53:07] INFO: 📊 RSI: 75.4 | ATR: ₹59.05
+[2025-06-20 13:53:37] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:53:37] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:53:38] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:53:38] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:53:38] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:53:38] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:53:38] INFO: 💰 Price: ₹25051.05 | SuperTrend: ₹24865.39
+[2025-06-20 13:53:38] INFO: 📊 RSI: 75.4 | ATR: ₹59.05
+[2025-06-20 13:54:08] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:54:08] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:54:08] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:54:08] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 13:54:08] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 13:54:08] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 13:54:08] INFO: 💰 Price: ₹25056.05 | SuperTrend: ₹24866.14
+[2025-06-20 13:54:08] INFO: 📊 RSI: 75.6 | ATR: ₹59.31
+[2025-06-20 13:54:38] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:54:38] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:54:38] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:54:38] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 13:54:38] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 13:54:38] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 13:54:38] INFO: 💰 Price: ₹25055.95 | SuperTrend: ₹24866.14
+[2025-06-20 13:54:38] INFO: 📊 RSI: 75.6 | ATR: ₹59.31
+[2025-06-20 13:55:08] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:55:08] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:55:08] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:55:08] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 13:55:08] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 13:55:08] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 13:55:08] INFO: 💰 Price: ₹25056.20 | SuperTrend: ₹24866.40
+[2025-06-20 13:55:08] INFO: 📊 RSI: 75.6 | ATR: ₹59.41
+[2025-06-20 13:55:39] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:55:39] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:55:39] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:55:39] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 13:55:39] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 13:55:39] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 13:55:39] INFO: 💰 Price: ₹25056.55 | SuperTrend: ₹24866.83
+[2025-06-20 13:55:39] INFO: 📊 RSI: 75.7 | ATR: ₹59.56
+[2025-06-20 13:56:09] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:56:09] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:56:09] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:56:09] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 13:56:09] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 13:56:09] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 13:56:09] INFO: 💰 Price: ₹25060.20 | SuperTrend: ₹24866.86
+[2025-06-20 13:56:09] INFO: 📊 RSI: 75.8 | ATR: ₹59.57
+[2025-06-20 13:56:39] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:56:39] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:56:39] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:56:39] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 13:56:39] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 13:56:39] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 13:56:39] INFO: 💰 Price: ₹25056.45 | SuperTrend: ₹24866.86
+[2025-06-20 13:56:39] INFO: 📊 RSI: 75.6 | ATR: ₹59.57
+[2025-06-20 13:57:10] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:57:10] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:57:10] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:57:10] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 13:57:10] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 13:57:10] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 13:57:10] INFO: 💰 Price: ₹25053.55 | SuperTrend: ₹24866.86
+[2025-06-20 13:57:10] INFO: 📊 RSI: 75.5 | ATR: ₹59.57
+[2025-06-20 13:57:40] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:57:40] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:57:40] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:57:40] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:57:40] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:57:40] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:57:40] INFO: 💰 Price: ₹25047.80 | SuperTrend: ₹24866.86
+[2025-06-20 13:57:40] INFO: 📊 RSI: 75.2 | ATR: ₹59.57
+[2025-06-20 13:58:10] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:58:10] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:58:10] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:58:10] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:58:10] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:58:10] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:58:10] INFO: 💰 Price: ₹25041.75 | SuperTrend: ₹24865.19
+[2025-06-20 13:58:10] INFO: 📊 RSI: 74.4 | ATR: ₹59.72
+[2025-06-20 13:58:41] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:58:41] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:58:41] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:58:41] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:58:41] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:58:41] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:58:41] INFO: 💰 Price: ₹25037.35 | SuperTrend: ₹24861.19
+[2025-06-20 13:58:41] INFO: 📊 RSI: 73.8 | ATR: ₹60.08
+[2025-06-20 13:59:11] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:59:11] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:59:11] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:59:11] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:59:11] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:59:11] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:59:11] INFO: 💰 Price: ₹25038.15 | SuperTrend: ₹24861.19
+[2025-06-20 13:59:11] INFO: 📊 RSI: 73.9 | ATR: ₹60.08
+[2025-06-20 13:59:41] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 13:59:41] WARNING: No quote data for NSE:2707457
+[2025-06-20 13:59:41] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 13:59:41] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 13:59:41] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 13:59:41] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 13:59:41] INFO: 💰 Price: ₹25039.05 | SuperTrend: ₹24861.19
+[2025-06-20 13:59:41] INFO: 📊 RSI: 74.0 | ATR: ₹60.08
+[2025-06-20 14:00:11] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:00:11] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:00:12] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:00:12] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:00:12] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:00:12] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:00:12] INFO: 💰 Price: ₹25042.50 | SuperTrend: ₹24861.19
+[2025-06-20 14:00:12] INFO: 📊 RSI: 74.5 | ATR: ₹60.08
+[2025-06-20 14:00:42] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:00:42] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:00:42] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:00:42] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:00:42] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:00:42] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:00:42] INFO: 💰 Price: ₹25041.80 | SuperTrend: ₹24861.19
+[2025-06-20 14:00:42] INFO: 📊 RSI: 74.4 | ATR: ₹60.08
+[2025-06-20 14:01:12] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:01:12] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:01:12] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:01:12] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:01:12] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:01:12] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:01:12] INFO: 💰 Price: ₹25041.25 | SuperTrend: ₹24861.19
+[2025-06-20 14:01:12] INFO: 📊 RSI: 74.3 | ATR: ₹60.08
+[2025-06-20 14:01:43] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:01:43] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:01:43] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:01:43] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:01:43] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:01:43] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:01:43] INFO: 💰 Price: ₹25045.05 | SuperTrend: ₹24861.19
+[2025-06-20 14:01:43] INFO: 📊 RSI: 74.9 | ATR: ₹60.08
+[2025-06-20 14:02:13] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:02:13] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:02:13] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:02:13] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:02:13] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:02:13] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:02:13] INFO: 💰 Price: ₹25043.95 | SuperTrend: ₹24861.19
+[2025-06-20 14:02:13] INFO: 📊 RSI: 74.7 | ATR: ₹60.08
+[2025-06-20 14:02:43] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:02:43] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:02:44] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:02:44] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:02:44] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:02:44] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:02:44] INFO: 💰 Price: ₹25041.35 | SuperTrend: ₹24861.19
+[2025-06-20 14:02:44] INFO: 📊 RSI: 74.3 | ATR: ₹60.08
+[2025-06-20 14:03:14] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:03:14] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:03:14] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:03:14] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:03:14] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:03:14] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:03:14] INFO: 💰 Price: ₹25044.05 | SuperTrend: ₹24861.19
+[2025-06-20 14:03:14] INFO: 📊 RSI: 74.7 | ATR: ₹60.08
+[2025-06-20 14:03:44] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:03:44] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:03:44] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:03:44] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:03:44] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:03:44] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:03:44] INFO: 💰 Price: ₹25041.75 | SuperTrend: ₹24861.19
+[2025-06-20 14:03:44] INFO: 📊 RSI: 74.4 | ATR: ₹60.08
+[2025-06-20 14:04:14] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:04:14] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:04:14] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:04:15] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:04:15] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:04:15] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:04:15] INFO: 💰 Price: ₹25042.00 | SuperTrend: ₹24861.19
+[2025-06-20 14:04:15] INFO: 📊 RSI: 74.4 | ATR: ₹60.08
+[2025-06-20 14:04:45] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:04:45] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:04:45] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:04:45] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:04:45] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:04:45] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:04:45] INFO: 💰 Price: ₹25039.70 | SuperTrend: ₹24861.19
+[2025-06-20 14:04:45] INFO: 📊 RSI: 74.1 | ATR: ₹60.08
+[2025-06-20 14:05:15] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:05:15] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:05:15] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:05:15] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:05:15] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:05:15] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:05:15] INFO: 💰 Price: ₹25041.10 | SuperTrend: ₹24861.19
+[2025-06-20 14:05:15] INFO: 📊 RSI: 74.3 | ATR: ₹60.08
+[2025-06-20 14:05:45] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:05:45] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:05:45] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:05:45] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:05:45] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:05:45] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:05:45] INFO: 💰 Price: ₹25042.75 | SuperTrend: ₹24861.19
+[2025-06-20 14:05:45] INFO: 📊 RSI: 74.5 | ATR: ₹60.08
+[2025-06-20 14:06:16] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:06:16] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:06:16] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:06:16] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:06:16] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:06:16] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:06:16] INFO: 💰 Price: ₹25046.80 | SuperTrend: ₹24861.19
+[2025-06-20 14:06:16] INFO: 📊 RSI: 75.1 | ATR: ₹60.08
+[2025-06-20 14:06:46] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:06:46] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:06:46] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:06:46] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:06:46] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:06:46] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:06:46] INFO: 💰 Price: ₹25047.30 | SuperTrend: ₹24861.19
+[2025-06-20 14:06:46] INFO: 📊 RSI: 75.2 | ATR: ₹60.08
+[2025-06-20 14:07:16] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:07:16] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:07:17] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:07:17] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:07:17] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:07:17] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:07:17] INFO: 💰 Price: ₹25049.80 | SuperTrend: ₹24861.19
+[2025-06-20 14:07:17] INFO: 📊 RSI: 75.3 | ATR: ₹60.08
+[2025-06-20 14:07:47] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:07:47] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:07:47] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:07:47] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:07:47] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:07:47] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:07:47] INFO: 💰 Price: ₹25050.30 | SuperTrend: ₹24861.19
+[2025-06-20 14:07:47] INFO: 📊 RSI: 75.4 | ATR: ₹60.08
+[2025-06-20 14:08:17] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:08:17] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:08:17] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:08:17] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:08:17] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:08:17] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:08:17] INFO: 💰 Price: ₹25050.70 | SuperTrend: ₹24861.19
+[2025-06-20 14:08:17] INFO: 📊 RSI: 75.4 | ATR: ₹60.08
+[2025-06-20 14:08:47] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:08:47] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:08:48] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:08:48] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:08:48] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:08:48] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:08:48] INFO: 💰 Price: ₹25048.20 | SuperTrend: ₹24861.19
+[2025-06-20 14:08:48] INFO: 📊 RSI: 75.3 | ATR: ₹60.08
+[2025-06-20 14:09:18] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:09:18] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:09:18] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:09:18] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:09:18] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:09:18] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:09:18] INFO: 💰 Price: ₹25051.15 | SuperTrend: ₹24861.19
+[2025-06-20 14:09:18] INFO: 📊 RSI: 75.4 | ATR: ₹60.08
+[2025-06-20 14:09:48] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:09:48] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:09:48] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:09:48] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:09:48] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:09:48] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:09:48] INFO: 💰 Price: ₹25050.20 | SuperTrend: ₹24861.19
+[2025-06-20 14:09:48] INFO: 📊 RSI: 75.3 | ATR: ₹60.08
+[2025-06-20 14:10:18] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:10:18] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:10:19] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:10:19] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:10:19] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:10:19] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:10:19] INFO: 💰 Price: ₹25048.55 | SuperTrend: ₹24861.19
+[2025-06-20 14:10:19] INFO: 📊 RSI: 75.3 | ATR: ₹60.08
+[2025-06-20 14:10:49] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:10:49] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:10:49] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:10:49] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:10:49] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:10:49] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:10:49] INFO: 💰 Price: ₹25046.65 | SuperTrend: ₹24861.19
+[2025-06-20 14:10:49] INFO: 📊 RSI: 75.1 | ATR: ₹60.08
+[2025-06-20 14:11:19] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:11:19] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:11:19] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:11:19] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:11:19] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:11:19] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:11:19] INFO: 💰 Price: ₹25040.35 | SuperTrend: ₹24861.19
+[2025-06-20 14:11:19] INFO: 📊 RSI: 74.2 | ATR: ₹60.08
+[2025-06-20 14:11:49] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:11:49] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:11:50] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:11:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:11:50] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:11:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:11:50] INFO: 💰 Price: ₹25042.80 | SuperTrend: ₹24861.19
+[2025-06-20 14:11:50] INFO: 📊 RSI: 74.5 | ATR: ₹60.08
+[2025-06-20 14:12:20] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:12:20] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:12:20] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:12:20] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:12:20] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:12:20] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:12:20] INFO: 💰 Price: ₹25045.10 | SuperTrend: ₹24861.19
+[2025-06-20 14:12:20] INFO: 📊 RSI: 74.9 | ATR: ₹60.08
+[2025-06-20 14:12:50] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:12:50] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:12:50] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:12:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:12:50] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:12:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:12:50] INFO: 💰 Price: ₹25046.15 | SuperTrend: ₹24861.19
+[2025-06-20 14:12:50] INFO: 📊 RSI: 75.0 | ATR: ₹60.08
+[2025-06-20 14:13:20] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:13:20] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:13:20] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:13:20] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:13:20] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:13:20] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:13:20] INFO: 💰 Price: ₹25049.10 | SuperTrend: ₹24861.19
+[2025-06-20 14:13:20] INFO: 📊 RSI: 75.3 | ATR: ₹60.08
+[2025-06-20 14:13:51] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:13:51] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:13:51] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:13:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:13:51] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:13:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:13:51] INFO: 💰 Price: ₹25051.30 | SuperTrend: ₹24861.19
+[2025-06-20 14:13:51] INFO: 📊 RSI: 75.4 | ATR: ₹60.08
+[2025-06-20 14:14:21] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:14:21] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:14:21] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:14:21] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:14:21] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:14:21] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:14:21] INFO: 💰 Price: ₹25052.60 | SuperTrend: ₹24861.19
+[2025-06-20 14:14:21] INFO: 📊 RSI: 75.5 | ATR: ₹60.08
+[2025-06-20 14:14:51] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:14:51] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:14:51] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:14:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:14:51] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-20 14:14:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-20 14:14:51] INFO: 💰 Price: ₹25050.50 | SuperTrend: ₹24861.19
+[2025-06-20 14:14:51] INFO: 📊 RSI: 75.4 | ATR: ₹60.08
+[2025-06-20 14:15:21] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:15:22] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:15:22] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:15:22] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:15:22] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:15:22] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:15:22] INFO: 💰 Price: ₹25049.95 | SuperTrend: ₹24903.61
+[2025-06-20 14:15:22] INFO: 📊 RSI: 73.1 | ATR: ₹56.31
+[2025-06-20 14:15:52] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:15:52] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:15:52] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:15:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:15:52] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:15:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:15:52] INFO: 💰 Price: ₹25051.20 | SuperTrend: ₹24903.84
+[2025-06-20 14:15:52] INFO: 📊 RSI: 73.1 | ATR: ₹56.39
+[2025-06-20 14:16:22] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:16:22] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:16:22] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:16:22] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:16:22] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:16:22] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:16:22] INFO: 💰 Price: ₹25052.25 | SuperTrend: ₹24904.06
+[2025-06-20 14:16:22] INFO: 📊 RSI: 73.2 | ATR: ₹56.47
+[2025-06-20 14:16:53] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:16:53] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:16:53] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:16:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:16:53] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:16:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:16:53] INFO: 💰 Price: ₹25053.05 | SuperTrend: ₹24904.10
+[2025-06-20 14:16:53] INFO: 📊 RSI: 73.3 | ATR: ₹56.49
+[2025-06-20 14:17:23] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:17:23] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:17:23] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:17:23] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:17:23] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:17:23] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:17:23] INFO: 💰 Price: ₹25052.30 | SuperTrend: ₹24904.19
+[2025-06-20 14:17:23] INFO: 📊 RSI: 73.2 | ATR: ₹56.52
+[2025-06-20 14:17:53] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:17:53] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:17:53] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:17:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:17:53] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:17:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:17:53] INFO: 💰 Price: ₹25054.90 | SuperTrend: ₹24904.48
+[2025-06-20 14:17:53] INFO: 📊 RSI: 73.4 | ATR: ₹56.62
+[2025-06-20 14:18:24] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:18:24] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:18:24] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:18:24] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:18:24] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:18:24] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:18:24] INFO: 💰 Price: ₹25056.45 | SuperTrend: ₹24904.55
+[2025-06-20 14:18:24] INFO: 📊 RSI: 73.4 | ATR: ₹56.65
+[2025-06-20 14:18:54] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:18:54] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:18:54] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:18:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:18:54] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:18:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:18:54] INFO: 💰 Price: ₹25058.25 | SuperTrend: ₹24905.49
+[2025-06-20 14:18:54] INFO: 📊 RSI: 73.5 | ATR: ₹56.98
+[2025-06-20 14:19:24] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:19:24] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:19:24] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:19:24] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:19:24] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:19:24] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:19:24] INFO: 💰 Price: ₹25055.50 | SuperTrend: ₹24905.50
+[2025-06-20 14:19:24] INFO: 📊 RSI: 73.4 | ATR: ₹56.99
+[2025-06-20 14:19:55] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:19:55] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:19:55] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:19:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:19:55] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:19:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:19:55] INFO: 💰 Price: ₹25049.15 | SuperTrend: ₹24905.34
+[2025-06-20 14:19:55] INFO: 📊 RSI: 73.0 | ATR: ₹57.00
+[2025-06-20 14:20:25] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:20:25] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:20:25] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:20:25] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:20:25] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:20:25] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:20:25] INFO: 💰 Price: ₹25047.90 | SuperTrend: ₹24903.82
+[2025-06-20 14:20:25] INFO: 📊 RSI: 72.8 | ATR: ₹57.14
+[2025-06-20 14:20:55] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:20:55] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:20:55] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:20:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:20:55] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:20:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:20:55] INFO: 💰 Price: ₹25046.95 | SuperTrend: ₹24903.46
+[2025-06-20 14:20:55] INFO: 📊 RSI: 72.6 | ATR: ₹57.17
+[2025-06-20 14:21:26] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:21:26] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:21:26] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:21:26] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:21:26] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:21:26] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:21:26] INFO: 💰 Price: ₹25040.30 | SuperTrend: ₹24898.38
+[2025-06-20 14:21:26] INFO: 📊 RSI: 71.6 | ATR: ₹57.62
+[2025-06-20 14:21:56] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:21:56] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:21:56] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:21:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:21:56] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:21:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:21:56] INFO: 💰 Price: ₹25041.30 | SuperTrend: ₹24896.98
+[2025-06-20 14:21:56] INFO: 📊 RSI: 71.8 | ATR: ₹57.75
+[2025-06-20 14:22:26] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:22:26] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:22:26] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:22:26] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:22:26] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:22:26] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:22:26] INFO: 💰 Price: ₹25043.55 | SuperTrend: ₹24896.98
+[2025-06-20 14:22:26] INFO: 📊 RSI: 72.1 | ATR: ₹57.75
+[2025-06-20 14:22:57] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:22:57] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:22:57] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:22:57] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:22:57] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:22:57] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:22:57] INFO: 💰 Price: ₹25047.05 | SuperTrend: ₹24896.98
+[2025-06-20 14:22:57] INFO: 📊 RSI: 72.7 | ATR: ₹57.75
+[2025-06-20 14:23:27] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:23:27] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:23:27] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:23:27] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:23:27] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:23:27] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:23:27] INFO: 💰 Price: ₹25054.50 | SuperTrend: ₹24896.98
+[2025-06-20 14:23:27] INFO: 📊 RSI: 73.3 | ATR: ₹57.75
+[2025-06-20 14:23:57] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:23:57] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:23:57] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:23:57] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:23:57] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:23:57] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:23:57] INFO: 💰 Price: ₹25053.60 | SuperTrend: ₹24896.98
+[2025-06-20 14:23:57] INFO: 📊 RSI: 73.3 | ATR: ₹57.75
+[2025-06-20 14:24:27] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:24:28] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:24:28] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:24:28] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:24:28] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:24:28] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:24:28] INFO: 💰 Price: ₹25057.35 | SuperTrend: ₹24896.98
+[2025-06-20 14:24:28] INFO: 📊 RSI: 73.5 | ATR: ₹57.75
+[2025-06-20 14:24:58] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:24:58] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:24:58] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:24:58] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:24:58] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:24:58] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:24:58] INFO: 💰 Price: ₹25054.60 | SuperTrend: ₹24896.98
+[2025-06-20 14:24:58] INFO: 📊 RSI: 73.3 | ATR: ₹57.75
+[2025-06-20 14:25:28] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:25:28] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:25:28] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:25:28] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:25:28] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:25:28] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:25:28] INFO: 💰 Price: ₹25056.00 | SuperTrend: ₹24896.98
+[2025-06-20 14:25:28] INFO: 📊 RSI: 73.4 | ATR: ₹57.75
+[2025-06-20 14:25:58] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:25:58] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:25:59] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:25:59] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:25:59] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:25:59] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:25:59] INFO: 💰 Price: ₹25052.85 | SuperTrend: ₹24896.98
+[2025-06-20 14:25:59] INFO: 📊 RSI: 73.2 | ATR: ₹57.75
+[2025-06-20 14:26:29] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:26:29] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:26:29] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:26:29] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:26:29] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:26:29] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:26:29] INFO: 💰 Price: ₹25052.90 | SuperTrend: ₹24896.98
+[2025-06-20 14:26:29] INFO: 📊 RSI: 73.2 | ATR: ₹57.75
+[2025-06-20 14:26:59] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:26:59] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:26:59] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:26:59] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:26:59] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:26:59] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:26:59] INFO: 💰 Price: ₹25053.35 | SuperTrend: ₹24896.98
+[2025-06-20 14:26:59] INFO: 📊 RSI: 73.3 | ATR: ₹57.75
+[2025-06-20 14:27:29] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:27:29] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:27:29] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:27:29] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:27:29] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:27:29] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:27:29] INFO: 💰 Price: ₹25046.75 | SuperTrend: ₹24896.98
+[2025-06-20 14:27:29] INFO: 📊 RSI: 72.6 | ATR: ₹57.75
+[2025-06-20 14:28:00] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:28:00] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:28:00] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:28:00] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:28:00] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:28:00] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:28:00] INFO: 💰 Price: ₹25046.15 | SuperTrend: ₹24896.98
+[2025-06-20 14:28:00] INFO: 📊 RSI: 72.5 | ATR: ₹57.75
+[2025-06-20 14:28:00] INFO: 📊 Position: 11 shares, P&L: ₹1.32
+[2025-06-20 14:28:30] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:28:30] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:28:30] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:28:30] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:28:30] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:28:30] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:28:30] INFO: 💰 Price: ₹25044.85 | SuperTrend: ₹24896.98
+[2025-06-20 14:28:30] INFO: 📊 RSI: 72.3 | ATR: ₹57.75
+[2025-06-20 14:29:00] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:29:00] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:29:00] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:29:00] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:29:00] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:29:00] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:29:00] INFO: 💰 Price: ₹25041.90 | SuperTrend: ₹24896.98
+[2025-06-20 14:29:00] INFO: 📊 RSI: 71.9 | ATR: ₹57.75
+[2025-06-20 14:29:00] INFO: 📊 Position: 11 shares, P&L: ₹0.00
+[2025-06-20 14:29:31] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:29:31] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:29:31] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:29:31] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:29:31] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:29:31] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:29:31] INFO: 💰 Price: ₹25038.05 | SuperTrend: ₹24895.62
+[2025-06-20 14:29:31] INFO: 📊 RSI: 71.3 | ATR: ₹57.87
+[2025-06-20 14:30:01] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:30:01] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:30:01] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:30:01] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:30:01] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:30:01] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:30:01] INFO: 💰 Price: ₹25037.30 | SuperTrend: ₹24894.66
+[2025-06-20 14:30:01] INFO: 📊 RSI: 71.2 | ATR: ₹57.95
+[2025-06-20 14:30:31] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:30:31] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:30:31] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:30:31] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:30:31] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:30:31] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:30:31] INFO: 💰 Price: ₹25039.35 | SuperTrend: ₹24894.26
+[2025-06-20 14:30:31] INFO: 📊 RSI: 71.5 | ATR: ₹57.99
+[2025-06-20 14:31:02] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:31:02] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:31:02] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:31:02] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:31:02] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:31:02] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:31:02] INFO: 💰 Price: ₹25039.30 | SuperTrend: ₹24894.26
+[2025-06-20 14:31:02] INFO: 📊 RSI: 71.5 | ATR: ₹57.99
+[2025-06-20 14:31:32] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:31:32] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:31:32] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:31:32] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:31:32] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:31:32] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:31:32] INFO: 💰 Price: ₹25039.20 | SuperTrend: ₹24894.26
+[2025-06-20 14:31:32] INFO: 📊 RSI: 71.5 | ATR: ₹57.99
+[2025-06-20 14:32:02] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:32:02] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:32:02] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:32:02] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:32:02] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:32:02] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:32:02] INFO: 💰 Price: ₹25037.95 | SuperTrend: ₹24894.26
+[2025-06-20 14:32:02] INFO: 📊 RSI: 71.3 | ATR: ₹57.99
+[2025-06-20 14:32:33] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:32:33] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:32:33] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:32:33] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:32:33] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:32:33] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:32:33] INFO: 💰 Price: ₹25040.10 | SuperTrend: ₹24894.26
+[2025-06-20 14:32:33] INFO: 📊 RSI: 71.6 | ATR: ₹57.99
+[2025-06-20 14:33:03] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:33:03] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:33:03] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:33:03] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:33:03] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:33:03] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:33:03] INFO: 💰 Price: ₹25042.75 | SuperTrend: ₹24894.26
+[2025-06-20 14:33:03] INFO: 📊 RSI: 72.0 | ATR: ₹57.99
+[2025-06-20 14:33:33] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:33:33] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:33:33] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:33:33] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:33:33] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:33:33] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:33:33] INFO: 💰 Price: ₹25043.65 | SuperTrend: ₹24894.26
+[2025-06-20 14:33:33] INFO: 📊 RSI: 72.1 | ATR: ₹57.99
+[2025-06-20 14:34:03] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:34:03] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:34:04] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:34:04] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:34:04] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:34:04] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:34:04] INFO: 💰 Price: ₹25042.65 | SuperTrend: ₹24894.26
+[2025-06-20 14:34:04] INFO: 📊 RSI: 72.0 | ATR: ₹57.99
+[2025-06-20 14:34:34] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:34:34] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:34:34] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:34:34] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:34:34] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:34:34] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:34:34] INFO: 💰 Price: ₹25040.10 | SuperTrend: ₹24894.26
+[2025-06-20 14:34:34] INFO: 📊 RSI: 71.6 | ATR: ₹57.99
+[2025-06-20 14:35:04] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:35:04] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:35:04] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:35:04] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:35:04] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:35:04] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:35:04] INFO: 💰 Price: ₹25032.60 | SuperTrend: ₹24891.26
+[2025-06-20 14:35:04] INFO: 📊 RSI: 70.5 | ATR: ₹58.26
+[2025-06-20 14:35:34] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:35:34] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:35:34] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:35:34] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:35:34] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:35:34] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:35:34] INFO: 💰 Price: ₹25037.60 | SuperTrend: ₹24891.26
+[2025-06-20 14:35:34] INFO: 📊 RSI: 71.2 | ATR: ₹58.26
+[2025-06-20 14:36:05] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:36:05] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:36:05] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:36:05] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:36:05] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:36:05] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:36:05] INFO: 💰 Price: ₹25039.25 | SuperTrend: ₹24891.26
+[2025-06-20 14:36:05] INFO: 📊 RSI: 71.5 | ATR: ₹58.26
+[2025-06-20 14:36:35] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:36:35] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:36:35] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:36:35] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:36:35] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:36:35] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:36:35] INFO: 💰 Price: ₹25039.20 | SuperTrend: ₹24891.26
+[2025-06-20 14:36:35] INFO: 📊 RSI: 71.5 | ATR: ₹58.26
+[2025-06-20 14:37:05] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:37:05] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:37:05] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:37:05] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:37:05] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:37:05] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:37:05] INFO: 💰 Price: ₹25040.05 | SuperTrend: ₹24891.26
+[2025-06-20 14:37:05] INFO: 📊 RSI: 71.6 | ATR: ₹58.26
+[2025-06-20 14:37:35] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:37:35] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:37:36] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:37:36] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:37:36] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:37:36] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:37:36] INFO: 💰 Price: ₹25039.70 | SuperTrend: ₹24891.26
+[2025-06-20 14:37:36] INFO: 📊 RSI: 71.5 | ATR: ₹58.26
+[2025-06-20 14:38:06] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:38:06] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:38:06] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:38:06] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:38:06] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:38:06] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:38:06] INFO: 💰 Price: ₹25043.60 | SuperTrend: ₹24891.26
+[2025-06-20 14:38:06] INFO: 📊 RSI: 72.1 | ATR: ₹58.26
+[2025-06-20 14:38:36] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:38:36] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:38:36] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:38:36] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:38:36] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:38:36] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:38:36] INFO: 💰 Price: ₹25047.35 | SuperTrend: ₹24891.26
+[2025-06-20 14:38:36] INFO: 📊 RSI: 72.7 | ATR: ₹58.26
+[2025-06-20 14:39:06] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:39:06] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:39:06] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:39:06] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:39:06] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:39:06] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:39:06] INFO: 💰 Price: ₹25045.60 | SuperTrend: ₹24891.26
+[2025-06-20 14:39:06] INFO: 📊 RSI: 72.4 | ATR: ₹58.26
+[2025-06-20 14:39:36] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:39:37] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:39:37] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:39:37] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:39:37] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:39:37] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:39:37] INFO: 💰 Price: ₹25048.95 | SuperTrend: ₹24891.26
+[2025-06-20 14:39:37] INFO: 📊 RSI: 73.0 | ATR: ₹58.26
+[2025-06-20 14:40:07] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:40:07] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:40:07] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:40:07] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:40:07] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:40:07] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:40:07] INFO: 💰 Price: ₹25049.35 | SuperTrend: ₹24891.26
+[2025-06-20 14:40:07] INFO: 📊 RSI: 73.0 | ATR: ₹58.26
+[2025-06-20 14:40:37] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:40:37] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:40:37] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:40:37] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:40:37] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:40:37] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:40:37] INFO: 💰 Price: ₹25048.75 | SuperTrend: ₹24891.26
+[2025-06-20 14:40:37] INFO: 📊 RSI: 72.9 | ATR: ₹58.26
+[2025-06-20 14:41:07] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:41:07] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:41:07] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:41:07] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:41:07] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:41:07] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:41:07] INFO: 💰 Price: ₹25050.45 | SuperTrend: ₹24891.26
+[2025-06-20 14:41:07] INFO: 📊 RSI: 73.1 | ATR: ₹58.26
+[2025-06-20 14:41:38] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:41:38] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:41:38] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:41:38] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:41:38] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:41:38] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:41:38] INFO: 💰 Price: ₹25049.05 | SuperTrend: ₹24891.26
+[2025-06-20 14:41:38] INFO: 📊 RSI: 73.0 | ATR: ₹58.26
+[2025-06-20 14:42:08] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:42:08] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:42:08] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:42:08] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:42:08] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:42:08] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:42:08] INFO: 💰 Price: ₹25050.35 | SuperTrend: ₹24891.26
+[2025-06-20 14:42:08] INFO: 📊 RSI: 73.1 | ATR: ₹58.26
+[2025-06-20 14:42:38] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:42:38] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:42:38] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:42:38] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:42:38] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:42:38] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:42:38] INFO: 💰 Price: ₹25045.95 | SuperTrend: ₹24891.26
+[2025-06-20 14:42:38] INFO: 📊 RSI: 72.5 | ATR: ₹58.26
+[2025-06-20 14:43:08] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:43:08] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:43:08] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:43:08] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:43:08] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:43:08] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:43:08] INFO: 💰 Price: ₹25044.75 | SuperTrend: ₹24891.26
+[2025-06-20 14:43:08] INFO: 📊 RSI: 72.3 | ATR: ₹58.26
+[2025-06-20 14:43:39] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:43:39] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:43:39] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:43:39] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:43:39] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:43:39] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:43:39] INFO: 💰 Price: ₹25044.80 | SuperTrend: ₹24891.26
+[2025-06-20 14:43:39] INFO: 📊 RSI: 72.3 | ATR: ₹58.26
+[2025-06-20 14:44:09] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:44:09] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:44:09] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:44:09] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:44:09] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:44:09] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:44:09] INFO: 💰 Price: ₹25046.85 | SuperTrend: ₹24891.26
+[2025-06-20 14:44:09] INFO: 📊 RSI: 72.6 | ATR: ₹58.26
+[2025-06-20 14:44:39] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 14:44:39] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:44:39] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 14:44:39] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:44:39] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:44:39] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:44:39] INFO: 💰 Price: ₹25046.20 | SuperTrend: ₹24891.26
+[2025-06-20 14:44:39] INFO: 📊 RSI: 72.5 | ATR: ₹58.26
+[2025-06-20 14:45:09] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:45:09] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:45:10] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:45:10] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:45:10] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:45:10] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:45:10] INFO: 💰 Price: ₹25044.20 | SuperTrend: ₹24909.29
+[2025-06-20 14:45:10] INFO: 📊 RSI: 76.7 | ATR: ₹53.96
+[2025-06-20 14:45:40] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:45:40] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:45:40] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:45:40] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:45:40] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:45:40] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:45:40] INFO: 💰 Price: ₹25042.70 | SuperTrend: ₹24907.89
+[2025-06-20 14:45:40] INFO: 📊 RSI: 76.4 | ATR: ₹54.09
+[2025-06-20 14:46:10] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:46:10] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:46:10] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:46:10] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:46:10] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:46:10] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:46:10] INFO: 💰 Price: ₹25047.00 | SuperTrend: ₹24907.32
+[2025-06-20 14:46:10] INFO: 📊 RSI: 77.0 | ATR: ₹54.27
+[2025-06-20 14:46:40] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:46:40] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:46:40] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:46:40] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:46:40] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:46:40] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:46:40] INFO: 💰 Price: ₹25044.85 | SuperTrend: ₹24907.32
+[2025-06-20 14:46:40] INFO: 📊 RSI: 76.8 | ATR: ₹54.27
+[2025-06-20 14:47:10] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:47:10] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:47:11] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:47:11] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:47:11] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:47:11] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:47:11] INFO: 💰 Price: ₹25038.55 | SuperTrend: ₹24904.99
+[2025-06-20 14:47:11] INFO: 📊 RSI: 75.7 | ATR: ₹54.48
+[2025-06-20 14:47:41] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:47:41] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:47:41] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:47:41] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:47:41] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:47:41] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:47:41] INFO: 💰 Price: ₹25039.85 | SuperTrend: ₹24903.56
+[2025-06-20 14:47:41] INFO: 📊 RSI: 75.9 | ATR: ₹54.61
+[2025-06-20 14:48:11] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:48:11] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:48:11] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:48:11] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:48:11] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:48:11] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:48:11] INFO: 💰 Price: ₹25043.25 | SuperTrend: ₹24903.56
+[2025-06-20 14:48:11] INFO: 📊 RSI: 76.5 | ATR: ₹54.61
+[2025-06-20 14:48:41] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:48:41] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:48:41] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:48:41] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:48:41] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:48:41] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:48:41] INFO: 💰 Price: ₹25046.30 | SuperTrend: ₹24903.81
+[2025-06-20 14:48:41] INFO: 📊 RSI: 77.0 | ATR: ₹54.70
+[2025-06-20 14:49:11] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:49:11] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:49:12] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:49:12] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:49:12] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:49:12] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:49:12] INFO: 💰 Price: ₹25049.05 | SuperTrend: ₹24904.07
+[2025-06-20 14:49:12] INFO: 📊 RSI: 77.2 | ATR: ₹54.79
+[2025-06-20 14:49:42] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:49:42] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:49:42] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:49:42] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:49:42] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:49:42] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:49:42] INFO: 💰 Price: ₹25050.10 | SuperTrend: ₹24904.62
+[2025-06-20 14:49:42] INFO: 📊 RSI: 77.2 | ATR: ₹54.99
+[2025-06-20 14:50:12] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:50:12] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:50:12] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:50:12] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:50:12] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:50:12] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:50:12] INFO: 💰 Price: ₹25045.95 | SuperTrend: ₹24904.62
+[2025-06-20 14:50:12] INFO: 📊 RSI: 77.0 | ATR: ₹54.99
+[2025-06-20 14:50:42] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:50:42] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:50:43] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:50:43] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:50:43] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:50:43] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:50:43] INFO: 💰 Price: ₹25044.20 | SuperTrend: ₹24904.62
+[2025-06-20 14:50:43] INFO: 📊 RSI: 76.7 | ATR: ₹54.99
+[2025-06-20 14:51:13] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:51:13] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:51:13] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:51:13] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:51:13] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:51:13] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:51:13] INFO: 💰 Price: ₹25039.40 | SuperTrend: ₹24904.62
+[2025-06-20 14:51:13] INFO: 📊 RSI: 75.9 | ATR: ₹54.99
+[2025-06-20 14:51:43] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:51:43] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:51:43] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:51:43] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:51:43] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:51:43] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:51:43] INFO: 💰 Price: ₹25036.45 | SuperTrend: ₹24904.10
+[2025-06-20 14:51:43] INFO: 📊 RSI: 75.4 | ATR: ₹55.04
+[2025-06-20 14:52:13] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:52:13] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:52:13] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:52:13] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:52:13] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:52:13] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:52:13] INFO: 💰 Price: ₹25036.85 | SuperTrend: ₹24903.86
+[2025-06-20 14:52:13] INFO: 📊 RSI: 75.4 | ATR: ₹55.06
+[2025-06-20 14:52:43] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:52:44] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:52:44] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:52:44] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:52:44] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:52:44] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:52:44] INFO: 💰 Price: ₹25039.10 | SuperTrend: ₹24903.75
+[2025-06-20 14:52:44] INFO: 📊 RSI: 75.8 | ATR: ₹55.07
+[2025-06-20 14:53:14] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:53:14] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:53:14] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:53:14] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:53:14] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:53:14] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:53:14] INFO: 💰 Price: ₹25041.45 | SuperTrend: ₹24903.75
+[2025-06-20 14:53:14] INFO: 📊 RSI: 76.2 | ATR: ₹55.07
+[2025-06-20 14:53:44] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:53:44] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:53:44] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:53:44] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:53:44] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:53:44] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:53:44] INFO: 💰 Price: ₹25040.15 | SuperTrend: ₹24903.75
+[2025-06-20 14:53:44] INFO: 📊 RSI: 76.0 | ATR: ₹55.07
+[2025-06-20 14:54:14] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:54:14] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:54:14] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:54:14] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:54:14] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:54:14] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:54:14] INFO: 💰 Price: ₹25040.35 | SuperTrend: ₹24903.75
+[2025-06-20 14:54:14] INFO: 📊 RSI: 76.0 | ATR: ₹55.07
+[2025-06-20 14:54:45] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:54:45] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:54:45] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:54:45] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:54:45] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:54:45] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:54:45] INFO: 💰 Price: ₹25039.20 | SuperTrend: ₹24903.75
+[2025-06-20 14:54:45] INFO: 📊 RSI: 75.8 | ATR: ₹55.07
+[2025-06-20 14:55:15] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:55:15] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:55:15] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:55:15] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:55:15] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:55:15] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:55:15] INFO: 💰 Price: ₹25036.80 | SuperTrend: ₹24903.75
+[2025-06-20 14:55:15] INFO: 📊 RSI: 75.4 | ATR: ₹55.07
+[2025-06-20 14:55:45] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:55:45] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:55:45] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:55:45] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-20 14:55:45] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-20 14:55:45] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-20 14:55:45] INFO: 💰 Price: ₹25034.00 | SuperTrend: ₹24900.78
+[2025-06-20 14:55:45] INFO: 📊 RSI: 75.0 | ATR: ₹55.33
+[2025-06-20 14:56:16] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:56:16] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:56:16] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:56:16] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:56:16] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:56:16] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:56:16] INFO: 💰 Price: ₹25036.20 | SuperTrend: ₹24900.78
+[2025-06-20 14:56:16] INFO: 📊 RSI: 75.3 | ATR: ₹55.33
+[2025-06-20 14:56:46] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:56:46] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:56:46] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:56:46] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:56:46] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:56:46] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:56:46] INFO: 💰 Price: ₹25036.90 | SuperTrend: ₹24900.78
+[2025-06-20 14:56:46] INFO: 📊 RSI: 75.5 | ATR: ₹55.33
+[2025-06-20 14:57:16] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:57:16] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:57:16] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:57:16] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:57:16] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:57:16] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:57:16] INFO: 💰 Price: ₹25036.90 | SuperTrend: ₹24900.78
+[2025-06-20 14:57:16] INFO: 📊 RSI: 75.5 | ATR: ₹55.33
+[2025-06-20 14:57:46] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:57:46] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:57:46] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:57:46] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:57:46] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:57:46] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:57:46] INFO: 💰 Price: ₹25041.60 | SuperTrend: ₹24900.78
+[2025-06-20 14:57:46] INFO: 📊 RSI: 76.2 | ATR: ₹55.33
+[2025-06-20 14:58:17] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:58:17] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:58:17] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:58:17] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:58:17] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:58:17] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:58:17] INFO: 💰 Price: ₹25039.80 | SuperTrend: ₹24900.78
+[2025-06-20 14:58:17] INFO: 📊 RSI: 75.9 | ATR: ₹55.33
+[2025-06-20 14:58:47] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:58:47] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:58:47] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:58:47] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:58:47] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:58:47] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:58:47] INFO: 💰 Price: ₹25040.35 | SuperTrend: ₹24900.78
+[2025-06-20 14:58:47] INFO: 📊 RSI: 76.0 | ATR: ₹55.33
+[2025-06-20 14:59:17] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:59:17] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:59:17] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:59:17] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:59:17] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:59:17] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:59:17] INFO: 💰 Price: ₹25042.85 | SuperTrend: ₹24900.78
+[2025-06-20 14:59:17] INFO: 📊 RSI: 76.5 | ATR: ₹55.33
+[2025-06-20 14:59:47] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 14:59:48] WARNING: No quote data for NSE:2707457
+[2025-06-20 14:59:48] INFO: ✅ Historical data: 27 records for 2707457
+[2025-06-20 14:59:48] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 14:59:48] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 14:59:48] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 14:59:48] INFO: 💰 Price: ₹25044.05 | SuperTrend: ₹24900.78
+[2025-06-20 14:59:48] INFO: 📊 RSI: 76.7 | ATR: ₹55.33
+[2025-06-20 15:00:18] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:00:18] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:00:18] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:00:18] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:00:18] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:00:18] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:00:18] INFO: 💰 Price: ₹25045.70 | SuperTrend: ₹24900.78
+[2025-06-20 15:00:18] INFO: 📊 RSI: 76.9 | ATR: ₹55.33
+[2025-06-20 15:00:48] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:00:48] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:00:48] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:00:48] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:00:48] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:00:48] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:00:48] INFO: 💰 Price: ₹25062.40 | SuperTrend: ₹24903.62
+[2025-06-20 15:00:48] INFO: 📊 RSI: 77.8 | ATR: ₹56.34
+[2025-06-20 15:01:18] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:01:18] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:01:18] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:01:18] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:01:18] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:01:18] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:01:18] INFO: 💰 Price: ₹25073.45 | SuperTrend: ₹24905.22
+[2025-06-20 15:01:18] INFO: 📊 RSI: 78.3 | ATR: ₹56.92
+[2025-06-20 15:01:49] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:01:49] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:01:49] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:01:49] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:01:49] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:01:49] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:01:49] INFO: 💰 Price: ₹25071.55 | SuperTrend: ₹24905.35
+[2025-06-20 15:01:49] INFO: 📊 RSI: 78.2 | ATR: ₹56.96
+[2025-06-20 15:02:19] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:02:19] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:02:19] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:02:19] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:02:19] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:02:19] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:02:19] INFO: 💰 Price: ₹25075.20 | SuperTrend: ₹24906.26
+[2025-06-20 15:02:19] INFO: 📊 RSI: 78.4 | ATR: ₹57.29
+[2025-06-20 15:02:49] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:02:49] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:02:49] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:02:49] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:02:49] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:02:49] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:02:49] INFO: 💰 Price: ₹25083.95 | SuperTrend: ₹24907.32
+[2025-06-20 15:02:49] INFO: 📊 RSI: 78.8 | ATR: ₹57.66
+[2025-06-20 15:03:19] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:03:19] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:03:20] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:03:20] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:03:20] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:03:20] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:03:20] INFO: 💰 Price: ₹25095.10 | SuperTrend: ₹24909.22
+[2025-06-20 15:03:20] INFO: 📊 RSI: 79.3 | ATR: ₹58.35
+[2025-06-20 15:03:50] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:03:50] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:03:50] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:03:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:03:50] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:03:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:03:50] INFO: 💰 Price: ₹25087.20 | SuperTrend: ₹24909.35
+[2025-06-20 15:03:50] INFO: 📊 RSI: 78.9 | ATR: ₹58.39
+[2025-06-20 15:04:20] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:04:20] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:04:20] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:04:20] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:04:20] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:04:20] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:04:20] INFO: 💰 Price: ₹25092.80 | SuperTrend: ₹24909.35
+[2025-06-20 15:04:20] INFO: 📊 RSI: 79.2 | ATR: ₹58.39
+[2025-06-20 15:04:50] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:04:50] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:04:50] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:04:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:04:50] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:04:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:04:50] INFO: 💰 Price: ₹25100.20 | SuperTrend: ₹24910.57
+[2025-06-20 15:04:50] INFO: 📊 RSI: 79.5 | ATR: ₹58.83
+[2025-06-20 15:05:21] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:05:21] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:05:21] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:05:21] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:05:21] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:05:21] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:05:21] INFO: 💰 Price: ₹25102.95 | SuperTrend: ₹24910.90
+[2025-06-20 15:05:21] INFO: 📊 RSI: 79.6 | ATR: ₹58.95
+[2025-06-20 15:05:51] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:05:51] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:05:51] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:05:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:05:51] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:05:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:05:51] INFO: 💰 Price: ₹25103.55 | SuperTrend: ₹24911.54
+[2025-06-20 15:05:51] INFO: 📊 RSI: 79.6 | ATR: ₹59.18
+[2025-06-20 15:06:21] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:06:21] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:06:21] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:06:21] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:06:21] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:06:21] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:06:21] INFO: 💰 Price: ₹25108.05 | SuperTrend: ₹24912.76
+[2025-06-20 15:06:21] INFO: 📊 RSI: 79.8 | ATR: ₹59.61
+[2025-06-20 15:06:51] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:06:51] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:06:52] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:06:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:06:52] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:06:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:06:52] INFO: 💰 Price: ₹25114.20 | SuperTrend: ₹24913.44
+[2025-06-20 15:06:52] INFO: 📊 RSI: 80.0 | ATR: ₹59.85
+[2025-06-20 15:07:22] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:07:22] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:07:22] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:07:22] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:07:22] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:07:22] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:07:22] INFO: 💰 Price: ₹25112.95 | SuperTrend: ₹24913.85
+[2025-06-20 15:07:22] INFO: 📊 RSI: 80.0 | ATR: ₹60.00
+[2025-06-20 15:07:52] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:07:52] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:07:52] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:07:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:07:52] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:07:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:07:52] INFO: 💰 Price: ₹25107.40 | SuperTrend: ₹24913.85
+[2025-06-20 15:07:52] INFO: 📊 RSI: 79.8 | ATR: ₹60.00
+[2025-06-20 15:08:22] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:08:22] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:08:22] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:08:22] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:08:22] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:08:22] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:08:22] INFO: 💰 Price: ₹25108.05 | SuperTrend: ₹24913.85
+[2025-06-20 15:08:22] INFO: 📊 RSI: 79.8 | ATR: ₹60.00
+[2025-06-20 15:08:53] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:08:53] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:08:53] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:08:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:08:53] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:08:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:08:53] INFO: 💰 Price: ₹25110.65 | SuperTrend: ₹24913.85
+[2025-06-20 15:08:53] INFO: 📊 RSI: 79.9 | ATR: ₹60.00
+[2025-06-20 15:09:23] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:09:23] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:09:23] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:09:23] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:09:23] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:09:23] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:09:23] INFO: 💰 Price: ₹25114.00 | SuperTrend: ₹24913.85
+[2025-06-20 15:09:23] INFO: 📊 RSI: 80.0 | ATR: ₹60.00
+[2025-06-20 15:09:53] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:09:53] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:09:53] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:09:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:09:53] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:09:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:09:53] INFO: 💰 Price: ₹25120.85 | SuperTrend: ₹24914.38
+[2025-06-20 15:09:53] INFO: 📊 RSI: 80.3 | ATR: ₹60.19
+[2025-06-20 15:10:23] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:10:23] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:10:23] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:10:23] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:10:23] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:10:23] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:10:23] INFO: 💰 Price: ₹25127.00 | SuperTrend: ₹24915.64
+[2025-06-20 15:10:23] INFO: 📊 RSI: 80.5 | ATR: ₹60.64
+[2025-06-20 15:10:54] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:10:54] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:10:54] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:10:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:10:54] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:10:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:10:54] INFO: 💰 Price: ₹25126.80 | SuperTrend: ₹24916.01
+[2025-06-20 15:10:54] INFO: 📊 RSI: 80.5 | ATR: ₹60.77
+[2025-06-20 15:11:24] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:11:24] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:11:24] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:11:24] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:11:24] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:11:24] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:11:24] INFO: 💰 Price: ₹25125.70 | SuperTrend: ₹24916.01
+[2025-06-20 15:11:24] INFO: 📊 RSI: 80.5 | ATR: ₹60.77
+[2025-06-20 15:11:54] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:11:54] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:11:54] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:11:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:11:54] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:11:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:11:54] INFO: 💰 Price: ₹25128.80 | SuperTrend: ₹24916.19
+[2025-06-20 15:11:54] INFO: 📊 RSI: 80.6 | ATR: ₹60.84
+[2025-06-20 15:12:24] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:12:24] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:12:25] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:12:25] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:12:25] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:12:25] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:12:25] INFO: 💰 Price: ₹25130.40 | SuperTrend: ₹24916.76
+[2025-06-20 15:12:25] INFO: 📊 RSI: 80.7 | ATR: ₹61.04
+[2025-06-20 15:12:55] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:12:55] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:12:55] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:12:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:12:55] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:12:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:12:55] INFO: 💰 Price: ₹25129.90 | SuperTrend: ₹24916.76
+[2025-06-20 15:12:55] INFO: 📊 RSI: 80.6 | ATR: ₹61.04
+[2025-06-20 15:13:25] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:13:25] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:13:25] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:13:25] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:13:25] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:13:25] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:13:25] INFO: 💰 Price: ₹25127.20 | SuperTrend: ₹24916.76
+[2025-06-20 15:13:25] INFO: 📊 RSI: 80.5 | ATR: ₹61.04
+[2025-06-20 15:13:55] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:13:55] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:13:55] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:13:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:13:55] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:13:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:13:55] INFO: 💰 Price: ₹25125.30 | SuperTrend: ₹24916.76
+[2025-06-20 15:13:55] INFO: 📊 RSI: 80.5 | ATR: ₹61.04
+[2025-06-20 15:14:25] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:14:26] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:14:26] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:14:26] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:14:26] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:14:26] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:14:26] INFO: 💰 Price: ₹25116.20 | SuperTrend: ₹24916.76
+[2025-06-20 15:14:26] INFO: 📊 RSI: 80.1 | ATR: ₹61.04
+[2025-06-20 15:14:56] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:14:56] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:14:56] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:14:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:14:56] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:14:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:14:56] INFO: 💰 Price: ₹25113.75 | SuperTrend: ₹24916.76
+[2025-06-20 15:14:56] INFO: 📊 RSI: 80.0 | ATR: ₹61.04
+[2025-06-20 15:15:26] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:15:26] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:15:26] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:15:26] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:15:26] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:15:26] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:15:26] INFO: 💰 Price: ₹25113.65 | SuperTrend: ₹24984.30
+[2025-06-20 15:15:26] INFO: 📊 RSI: 81.7 | ATR: ₹59.34
+[2025-06-20 15:15:56] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:15:56] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:15:56] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:15:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:15:56] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:15:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:15:56] INFO: 💰 Price: ₹25113.55 | SuperTrend: ₹24984.38
+[2025-06-20 15:15:56] INFO: 📊 RSI: 81.7 | ATR: ₹59.37
+[2025-06-20 15:16:27] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:16:27] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:16:27] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:16:27] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:16:27] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:16:27] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:16:27] INFO: 💰 Price: ₹25117.55 | SuperTrend: ₹24984.75
+[2025-06-20 15:16:27] INFO: 📊 RSI: 82.2 | ATR: ₹59.50
+[2025-06-20 15:16:57] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:16:57] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:16:57] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:16:57] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:16:57] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:16:57] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:16:57] INFO: 💰 Price: ₹25115.00 | SuperTrend: ₹24984.99
+[2025-06-20 15:16:57] INFO: 📊 RSI: 81.9 | ATR: ₹59.59
+[2025-06-20 15:17:27] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:17:27] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:17:27] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:17:27] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:17:27] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:17:27] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:17:27] INFO: 💰 Price: ₹25111.70 | SuperTrend: ₹24983.39
+[2025-06-20 15:17:27] INFO: 📊 RSI: 81.4 | ATR: ₹59.73
+[2025-06-20 15:17:57] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:17:57] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:17:58] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:17:58] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:17:58] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:17:58] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:17:58] INFO: 💰 Price: ₹25110.60 | SuperTrend: ₹24982.59
+[2025-06-20 15:17:58] INFO: 📊 RSI: 81.2 | ATR: ₹59.80
+[2025-06-20 15:18:28] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:18:28] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:18:28] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:18:28] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:18:28] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:18:28] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:18:28] INFO: 💰 Price: ₹25110.55 | SuperTrend: ₹24982.59
+[2025-06-20 15:18:28] INFO: 📊 RSI: 81.2 | ATR: ₹59.80
+[2025-06-20 15:18:58] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:18:58] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:18:58] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:18:58] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:18:58] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:18:58] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:18:58] INFO: 💰 Price: ₹25121.65 | SuperTrend: ₹24983.01
+[2025-06-20 15:18:58] INFO: 📊 RSI: 82.4 | ATR: ₹59.95
+[2025-06-20 15:19:28] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:19:28] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:19:28] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:19:28] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:19:28] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:19:28] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:19:28] INFO: 💰 Price: ₹25123.80 | SuperTrend: ₹24983.59
+[2025-06-20 15:19:28] INFO: 📊 RSI: 82.4 | ATR: ₹60.16
+[2025-06-20 15:19:59] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:19:59] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:19:59] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:19:59] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:19:59] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:19:59] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:19:59] INFO: 💰 Price: ₹25125.70 | SuperTrend: ₹24984.11
+[2025-06-20 15:19:59] INFO: 📊 RSI: 82.5 | ATR: ₹60.35
+[2025-06-20 15:20:29] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:20:29] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:20:29] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:20:29] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:20:29] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:20:29] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:20:29] INFO: 💰 Price: ₹25128.45 | SuperTrend: ₹24984.37
+[2025-06-20 15:20:29] INFO: 📊 RSI: 82.6 | ATR: ₹60.44
+[2025-06-20 15:20:29] INFO: 🔴 POSITION EXIT: Market Close Approaching
+[2025-06-20 15:20:29] INFO:    Quantity: 11 shares
+[2025-06-20 15:20:29] INFO:    Exit Price: ₹281.61
+[2025-06-20 15:20:29] INFO:    P&L: ₹9.46
+[2025-06-20 15:20:29] ERROR: ❌ Order failed: SELL 11 NIFTYBEES - Error: Intraday orders (MIS) are allowed only till 3.20 PM. Try placing a CNC order.
+[2025-06-20 15:20:29] ERROR: ❌ Exit order placement failed
+[2025-06-20 15:20:59] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:20:59] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:20:59] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:20:59] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:20:59] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:20:59] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:20:59] INFO: 💰 Price: ₹25132.40 | SuperTrend: ₹24985.53
+[2025-06-20 15:20:59] INFO: 📊 RSI: 82.7 | ATR: ₹60.85
+[2025-06-20 15:20:59] INFO: 🔴 POSITION EXIT: Market Close Approaching
+[2025-06-20 15:20:59] INFO:    Quantity: 11 shares
+[2025-06-20 15:20:59] INFO:    Exit Price: ₹281.75
+[2025-06-20 15:20:59] INFO:    P&L: ₹11.00
+[2025-06-20 15:20:59] ERROR: ❌ Order failed: SELL 11 NIFTYBEES - Error: Intraday orders (MIS) are allowed only till 3.20 PM. Try placing a CNC order.
+[2025-06-20 15:20:59] ERROR: ❌ Exit order placement failed
+[2025-06-20 15:21:29] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:21:30] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:21:30] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:21:30] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:21:30] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:21:30] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:21:30] INFO: 💰 Price: ₹25129.30 | SuperTrend: ₹24985.53
+[2025-06-20 15:21:30] INFO: 📊 RSI: 82.6 | ATR: ₹60.85
+[2025-06-20 15:21:30] INFO: 🔴 POSITION EXIT: Market Close Approaching
+[2025-06-20 15:21:30] INFO:    Quantity: 11 shares
+[2025-06-20 15:21:30] INFO:    Exit Price: ₹281.61
+[2025-06-20 15:21:30] INFO:    P&L: ₹9.46
+[2025-06-20 15:21:30] ERROR: ❌ Order failed: SELL 11 NIFTYBEES - Error: Intraday orders (MIS) are allowed only till 3.20 PM. Try placing a CNC order.
+[2025-06-20 15:21:30] ERROR: ❌ Exit order placement failed
+[2025-06-20 15:22:00] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:22:00] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:22:00] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:22:00] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:22:00] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:22:00] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:22:00] INFO: 💰 Price: ₹25129.20 | SuperTrend: ₹24985.53
+[2025-06-20 15:22:00] INFO: 📊 RSI: 82.6 | ATR: ₹60.85
+[2025-06-20 15:22:00] INFO: 🔴 POSITION EXIT: Market Close Approaching
+[2025-06-20 15:22:00] INFO:    Quantity: 11 shares
+[2025-06-20 15:22:00] INFO:    Exit Price: ₹281.60
+[2025-06-20 15:22:00] INFO:    P&L: ₹9.35
+[2025-06-20 15:22:00] ERROR: ❌ Order failed: SELL 11 NIFTYBEES - Error: Intraday orders (MIS) are allowed only till 3.20 PM. Try placing a CNC order.
+[2025-06-20 15:22:00] ERROR: ❌ Exit order placement failed
+[2025-06-20 15:22:30] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:22:30] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:22:30] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:22:30] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:22:30] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:22:30] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:22:30] INFO: 💰 Price: ₹25128.35 | SuperTrend: ₹24985.53
+[2025-06-20 15:22:30] INFO: 📊 RSI: 82.6 | ATR: ₹60.85
+[2025-06-20 15:22:30] INFO: 🔴 POSITION EXIT: Market Close Approaching
+[2025-06-20 15:22:30] INFO:    Quantity: 11 shares
+[2025-06-20 15:22:30] INFO:    Exit Price: ₹281.56
+[2025-06-20 15:22:30] INFO:    P&L: ₹8.91
+[2025-06-20 15:22:30] ERROR: ❌ Order failed: SELL 11 NIFTYBEES - Error: Intraday orders (MIS) are allowed only till 3.20 PM. Try placing a CNC order.
+[2025-06-20 15:22:30] ERROR: ❌ Exit order placement failed
+[2025-06-20 15:23:01] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:23:01] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:23:01] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:23:01] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:23:01] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:23:01] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:23:01] INFO: 💰 Price: ₹25129.90 | SuperTrend: ₹24985.53
+[2025-06-20 15:23:01] INFO: 📊 RSI: 82.6 | ATR: ₹60.85
+[2025-06-20 15:23:01] INFO: 🔴 POSITION EXIT: Market Close Approaching
+[2025-06-20 15:23:01] INFO:    Quantity: 11 shares
+[2025-06-20 15:23:01] INFO:    Exit Price: ₹281.57
+[2025-06-20 15:23:01] INFO:    P&L: ₹9.02
+[2025-06-20 15:23:01] ERROR: ❌ Order failed: SELL 11 NIFTYBEES - Error: Intraday orders (MIS) are allowed only till 3.20 PM. Try placing a CNC order.
+[2025-06-20 15:23:01] ERROR: ❌ Exit order placement failed
+[2025-06-20 15:23:31] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:23:31] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:23:31] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:23:31] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:23:31] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:23:31] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:23:31] INFO: 💰 Price: ₹25130.95 | SuperTrend: ₹24985.53
+[2025-06-20 15:23:31] INFO: 📊 RSI: 82.7 | ATR: ₹60.85
+[2025-06-20 15:23:31] INFO: 🔴 POSITION EXIT: Market Close Approaching
+[2025-06-20 15:23:31] INFO:    Quantity: 11 shares
+[2025-06-20 15:23:31] INFO:    Exit Price: ₹281.59
+[2025-06-20 15:23:31] INFO:    P&L: ₹9.24
+[2025-06-20 15:23:31] ERROR: ❌ Order failed: SELL 11 NIFTYBEES - Error: Intraday orders (MIS) are allowed only till 3.20 PM. Try placing a CNC order.
+[2025-06-20 15:23:31] ERROR: ❌ Exit order placement failed
+[2025-06-20 15:24:01] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 15:24:01] WARNING: No quote data for NSE:2707457
+[2025-06-20 15:24:02] INFO: ✅ Historical data: 26 records for 2707457
+[2025-06-20 15:24:02] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-20 15:24:02] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-20 15:24:02] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-20 15:24:02] INFO: 💰 Price: ₹25128.25 | SuperTrend: ₹24985.53
+[2025-06-20 15:24:02] INFO: 📊 RSI: 82.6 | ATR: ₹60.85
+[2025-06-20 15:24:02] INFO: 🔴 POSITION EXIT: Market Close Approaching
+[2025-06-20 15:24:02] INFO:    Quantity: 11 shares
+[2025-06-20 15:24:02] INFO:    Exit Price: ₹281.57
+[2025-06-20 15:24:02] INFO:    P&L: ₹9.02
+[2025-06-20 15:24:02] ERROR: ❌ Order failed: SELL 11 NIFTYBEES - Error: Intraday orders (MIS) are allowed only till 3.20 PM. Try placing a CNC order.
+[2025-06-20 15:24:02] ERROR: ❌ Exit order placement failed
+[2025-06-20 15:25:56] ERROR: ❌ Failed to get historical data for 256265: HTTPSConnectionPool(host='api.kite.trade', port=443): Read timed out. (read timeout=7)
+[2025-06-20 15:25:56] WARNING: ⚠️ No signal data received, retrying...
+[2025-06-20 16:06:43] INFO: 📅 Market is closed, waiting...
+[2025-06-20 16:22:43] INFO: 📅 Market is closed, waiting...
+[2025-06-20 16:43:37] INFO: 📅 Market is closed, waiting...
+[2025-06-20 16:49:46] INFO: 📅 Market is closed, waiting...
+[2025-06-20 16:50:46] INFO: 📅 Market is closed, waiting...
+[2025-06-20 16:51:46] INFO: 📅 Market is closed, waiting...
+[2025-06-20 16:52:46] INFO: 📅 Market is closed, waiting...
+[2025-06-20 16:53:42] INFO: 🛑 Shutdown signal received
+[2025-06-20 16:53:42] INFO: 🔄 Closing open position before shutdown...
+[2025-06-20 16:53:43] WARNING: No quote data for NSE:2707457
+[2025-06-20 16:53:43] INFO: 📅 Enhanced trading session ended
