@@ -1946,3 +1946,24 @@
 [2025-06-20 11:23:06] INFO: ✅ Historical data: 27 records for 256265
 [2025-06-20 11:23:06] INFO: 📊 Enhanced Signal: SELL (Confidence: 60.0%)
 [2025-06-20 11:23:06] INFO: 🔍 Confirmations: Price Down, Test Signal
+[2025-06-20 11:35:42] INFO: Connected to Kite as: Prajal Kulkarni
+[2025-06-20 11:35:42] INFO: ✅ Loaded balanced strategy profile
+[2025-06-20 11:35:42] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-20 11:35:42] INFO:    SuperTrend: 10/3.0
+[2025-06-20 11:35:42] INFO:    RSI: 14 (30/70)
+[2025-06-20 11:35:42] INFO:    Min confirmations: 3
+[2025-06-20 11:35:42] INFO: ✅ Enhanced position sizer initialized
+[2025-06-20 11:35:42] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:35:42] INFO:    Base position size: 80.0%
+[2025-06-20 11:35:42] INFO: ✅ Enhanced risk manager initialized
+[2025-06-20 11:35:42] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:35:42] INFO:    Max daily loss: 5.0%
+[2025-06-20 11:35:42] INFO:    Max drawdown: 10.0%
+[2025-06-20 11:35:42] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-20 11:35:42] INFO: 📊 Strategy: balanced
+[2025-06-20 11:35:42] INFO: 🎯 Min confirmations: 3
+[2025-06-20 11:35:42] INFO: 💰 Account balance: ₹5,000.00
+[2025-06-20 11:35:42] INFO: ✅ OrderExecutor initialized
+[2025-06-20 11:35:42] INFO: ✅ Historical data: 26 records for 256265
+[2025-06-20 11:35:42] INFO: 📊 Enhanced Signal: SELL (Confidence: 60.0%)
+[2025-06-20 11:35:42] INFO: 🔍 Confirmations: Price Down, Test Signal
