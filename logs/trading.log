@@ -1770,3 +1770,179 @@
 [2025-06-20 09:56:16] INFO: Signal: GREEN (Uptrend) | Price: ₹278.94
 [2025-06-20 09:56:47] INFO: Signal: GREEN (Uptrend) | Price: ₹278.80
 [2025-06-20 09:57:18] INFO: Signal: RED (Downtrend) | Price: ₹278.85
+[2025-06-20 09:57:48] INFO: Signal: RED (Downtrend) | Price: ₹278.87
+[2025-06-20 09:58:19] INFO: Signal: RED (Downtrend) | Price: ₹278.87
+[2025-06-20 09:58:50] INFO: Signal: RED (Downtrend) | Price: ₹278.85
+[2025-06-20 09:59:21] INFO: Signal: RED (Downtrend) | Price: ₹278.93
+[2025-06-20 09:59:51] INFO: Signal: RED (Downtrend) | Price: ₹278.85
+[2025-06-20 10:00:22] INFO: Signal: RED (Downtrend) | Price: ₹278.99
+[2025-06-20 10:00:53] INFO: Signal: RED (Downtrend) | Price: ₹278.93
+[2025-06-20 10:01:23] INFO: Signal: RED (Downtrend) | Price: ₹278.98
+[2025-06-20 10:01:54] INFO: Signal: RED (Downtrend) | Price: ₹278.95
+[2025-06-20 10:02:25] INFO: Signal: RED (Downtrend) | Price: ₹278.92
+[2025-06-20 10:02:55] INFO: Signal: RED (Downtrend) | Price: ₹278.95
+[2025-06-20 10:03:26] INFO: Signal: RED (Downtrend) | Price: ₹279.00
+[2025-06-20 10:03:57] INFO: Signal: RED (Downtrend) | Price: ₹279.03
+[2025-06-20 10:04:27] INFO: Signal: RED (Downtrend) | Price: ₹278.94
+[2025-06-20 10:04:58] INFO: Signal: RED (Downtrend) | Price: ₹279.08
+[2025-06-20 10:05:29] INFO: Signal: RED (Downtrend) | Price: ₹279.09
+[2025-06-20 10:05:59] INFO: Signal: RED (Downtrend) | Price: ₹279.19
+[2025-06-20 10:06:30] INFO: Signal: GREEN (Uptrend) | Price: ₹279.11
+[2025-06-20 10:06:30] INFO: 💰 MIS Calculation: NIFTYBEES
+[2025-06-20 10:06:30] INFO:    Available Capital: ₹4,000.00
+[2025-06-20 10:06:30] INFO:    MIS Leverage: 5.0x
+[2025-06-20 10:06:30] INFO:    Price per share: ₹279.11
+[2025-06-20 10:06:30] INFO:    Margin per share: ₹55.82
+[2025-06-20 10:06:30] INFO:    Calculated Quantity: 71 shares
+[2025-06-20 10:06:30] INFO:    Margin Required: ₹3,963.36
+[2025-06-20 10:06:30] INFO:    Trade Value: ₹19,816.81
+[2025-06-20 10:06:30] INFO: 🟢 LONG ENTRY SIGNAL DETECTED
+[2025-06-20 10:06:30] INFO: 📋 Trade Details:
+[2025-06-20 10:06:30] INFO:    Quantity: 71 shares
+[2025-06-20 10:06:30] INFO:    Price: ₹279.11
+[2025-06-20 10:06:30] INFO:    Trade Value: ₹19,816.81
+[2025-06-20 10:06:30] INFO:    Margin Required: ₹3,963.36
+[2025-06-20 10:06:30] INFO:    Leverage Used: 5.0x
+[2025-06-20 10:06:30] INFO: Order placed: BUY 71 NIFTYBEES - ID: 250620400366666
+[2025-06-20 10:06:30] INFO: ✅ POSITION OPENED: 71 NIFTYBEES at ₹279.11
+[2025-06-20 10:07:01] INFO: Signal: GREEN (Uptrend) | Price: ₹279.11
+[2025-06-20 10:07:01] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:07:01] INFO: P&L: ₹0.00 (0.00%) | Entry: ₹279.11 | Current: ₹279.11
+[2025-06-20 10:07:32] INFO: Signal: GREEN (Uptrend) | Price: ₹279.15
+[2025-06-20 10:07:32] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:07:32] INFO: P&L: ₹2.84 (0.01%) | Entry: ₹279.11 | Current: ₹279.15
+[2025-06-20 10:08:02] INFO: Signal: GREEN (Uptrend) | Price: ₹279.10
+[2025-06-20 10:08:02] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:08:02] INFO: P&L: ₹-0.71 (-0.00%) | Entry: ₹279.11 | Current: ₹279.10
+[2025-06-20 10:08:33] INFO: Signal: GREEN (Uptrend) | Price: ₹279.10
+[2025-06-20 10:08:33] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:08:33] INFO: P&L: ₹-0.71 (-0.00%) | Entry: ₹279.11 | Current: ₹279.10
+[2025-06-20 10:09:04] INFO: Signal: GREEN (Uptrend) | Price: ₹279.14
+[2025-06-20 10:09:04] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:09:04] INFO: P&L: ₹2.13 (0.01%) | Entry: ₹279.11 | Current: ₹279.14
+[2025-06-20 10:09:35] INFO: Signal: GREEN (Uptrend) | Price: ₹279.13
+[2025-06-20 10:09:35] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:09:35] INFO: P&L: ₹1.42 (0.01%) | Entry: ₹279.11 | Current: ₹279.13
+[2025-06-20 10:10:06] INFO: Signal: GREEN (Uptrend) | Price: ₹279.10
+[2025-06-20 10:10:06] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:10:06] INFO: P&L: ₹-0.71 (-0.00%) | Entry: ₹279.11 | Current: ₹279.10
+[2025-06-20 10:10:36] INFO: Signal: GREEN (Uptrend) | Price: ₹279.12
+[2025-06-20 10:10:36] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:10:36] INFO: P&L: ₹0.71 (0.00%) | Entry: ₹279.11 | Current: ₹279.12
+[2025-06-20 10:11:07] INFO: Signal: GREEN (Uptrend) | Price: ₹279.16
+[2025-06-20 10:11:07] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:11:07] INFO: P&L: ₹3.55 (0.02%) | Entry: ₹279.11 | Current: ₹279.16
+[2025-06-20 10:11:38] INFO: Signal: GREEN (Uptrend) | Price: ₹279.18
+[2025-06-20 10:11:38] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:11:38] INFO: P&L: ₹4.97 (0.03%) | Entry: ₹279.11 | Current: ₹279.18
+[2025-06-20 10:12:09] INFO: Signal: GREEN (Uptrend) | Price: ₹279.35
+[2025-06-20 10:12:09] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:12:09] INFO: P&L: ₹17.04 (0.09%) | Entry: ₹279.11 | Current: ₹279.35
+[2025-06-20 10:12:40] INFO: Signal: GREEN (Uptrend) | Price: ₹279.44
+[2025-06-20 10:12:40] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:12:40] INFO: P&L: ₹23.43 (0.12%) | Entry: ₹279.11 | Current: ₹279.44
+[2025-06-20 10:13:10] INFO: Signal: GREEN (Uptrend) | Price: ₹279.45
+[2025-06-20 10:13:10] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:13:10] INFO: P&L: ₹24.14 (0.12%) | Entry: ₹279.11 | Current: ₹279.45
+[2025-06-20 10:13:41] INFO: Signal: GREEN (Uptrend) | Price: ₹279.45
+[2025-06-20 10:13:41] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:13:41] INFO: P&L: ₹24.14 (0.12%) | Entry: ₹279.11 | Current: ₹279.45
+[2025-06-20 10:14:12] INFO: Signal: GREEN (Uptrend) | Price: ₹279.44
+[2025-06-20 10:14:12] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:14:12] INFO: P&L: ₹23.43 (0.12%) | Entry: ₹279.11 | Current: ₹279.44
+[2025-06-20 10:14:43] INFO: Signal: GREEN (Uptrend) | Price: ₹279.40
+[2025-06-20 10:14:43] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:14:43] INFO: P&L: ₹20.59 (0.10%) | Entry: ₹279.11 | Current: ₹279.40
+[2025-06-20 10:15:14] INFO: Signal: GREEN (Uptrend) | Price: ₹279.55
+[2025-06-20 10:15:14] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:15:14] INFO: P&L: ₹31.24 (0.16%) | Entry: ₹279.11 | Current: ₹279.55
+[2025-06-20 10:15:44] INFO: Signal: GREEN (Uptrend) | Price: ₹279.72
+[2025-06-20 10:15:44] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:15:44] INFO: P&L: ₹43.31 (0.22%) | Entry: ₹279.11 | Current: ₹279.72
+[2025-06-20 10:16:15] INFO: Signal: GREEN (Uptrend) | Price: ₹279.83
+[2025-06-20 10:16:15] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:16:15] INFO: P&L: ₹51.12 (0.26%) | Entry: ₹279.11 | Current: ₹279.83
+[2025-06-20 10:16:46] INFO: Signal: GREEN (Uptrend) | Price: ₹279.77
+[2025-06-20 10:16:46] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:16:46] INFO: P&L: ₹46.86 (0.24%) | Entry: ₹279.11 | Current: ₹279.77
+[2025-06-20 10:17:17] INFO: Signal: GREEN (Uptrend) | Price: ₹279.70
+[2025-06-20 10:17:17] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:17:17] INFO: P&L: ₹41.89 (0.21%) | Entry: ₹279.11 | Current: ₹279.70
+[2025-06-20 10:17:48] INFO: Signal: GREEN (Uptrend) | Price: ₹279.94
+[2025-06-20 10:17:48] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:17:48] INFO: P&L: ₹58.93 (0.30%) | Entry: ₹279.11 | Current: ₹279.94
+[2025-06-20 10:18:18] INFO: Signal: GREEN (Uptrend) | Price: ₹279.97
+[2025-06-20 10:18:18] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:18:18] INFO: P&L: ₹61.06 (0.31%) | Entry: ₹279.11 | Current: ₹279.97
+[2025-06-20 10:18:49] INFO: Signal: GREEN (Uptrend) | Price: ₹279.98
+[2025-06-20 10:18:49] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:18:49] INFO: P&L: ₹61.77 (0.31%) | Entry: ₹279.11 | Current: ₹279.98
+[2025-06-20 10:19:20] INFO: Signal: GREEN (Uptrend) | Price: ₹280.00
+[2025-06-20 10:19:20] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:19:20] INFO: P&L: ₹63.19 (0.32%) | Entry: ₹279.11 | Current: ₹280.00
+[2025-06-20 10:19:51] INFO: Signal: GREEN (Uptrend) | Price: ₹280.00
+[2025-06-20 10:19:51] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:19:51] INFO: P&L: ₹63.19 (0.32%) | Entry: ₹279.11 | Current: ₹280.00
+[2025-06-20 10:20:22] INFO: Signal: GREEN (Uptrend) | Price: ₹280.17
+[2025-06-20 10:20:22] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:20:22] INFO: P&L: ₹75.26 (0.38%) | Entry: ₹279.11 | Current: ₹280.17
+[2025-06-20 10:20:53] INFO: Signal: GREEN (Uptrend) | Price: ₹280.08
+[2025-06-20 10:20:53] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:20:53] INFO: P&L: ₹68.87 (0.35%) | Entry: ₹279.11 | Current: ₹280.08
+[2025-06-20 10:21:23] INFO: Signal: GREEN (Uptrend) | Price: ₹280.04
+[2025-06-20 10:21:24] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:21:24] INFO: P&L: ₹66.03 (0.33%) | Entry: ₹279.11 | Current: ₹280.04
+[2025-06-20 10:21:54] INFO: Signal: GREEN (Uptrend) | Price: ₹280.17
+[2025-06-20 10:21:54] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:21:54] INFO: P&L: ₹75.26 (0.38%) | Entry: ₹279.11 | Current: ₹280.17
+[2025-06-20 10:22:25] INFO: Signal: GREEN (Uptrend) | Price: ₹280.15
+[2025-06-20 10:22:25] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:22:25] INFO: P&L: ₹73.84 (0.37%) | Entry: ₹279.11 | Current: ₹280.15
+[2025-06-20 10:22:56] INFO: Signal: GREEN (Uptrend) | Price: ₹280.17
+[2025-06-20 10:22:56] INFO: Position: 71 NIFTYBEES
+[2025-06-20 10:22:56] INFO: P&L: ₹75.26 (0.38%) | Entry: ₹279.11 | Current: ₹280.17
+[2025-06-20 11:17:07] ERROR: Failed to establish Kite session: 'str' object has no attribute 'exists'
+[2025-06-20 11:19:18] INFO: Connected to Kite as: Prajal Kulkarni
+[2025-06-20 11:19:18] INFO: ✅ Loaded balanced strategy profile
+[2025-06-20 11:19:18] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-20 11:19:18] INFO:    SuperTrend: 10/3.0
+[2025-06-20 11:19:18] INFO:    RSI: 14 (30/70)
+[2025-06-20 11:19:18] INFO:    Min confirmations: 3
+[2025-06-20 11:19:18] INFO: ✅ Enhanced position sizer initialized
+[2025-06-20 11:19:18] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:19:18] INFO:    Base position size: 80.0%
+[2025-06-20 11:19:18] INFO: ✅ Enhanced risk manager initialized
+[2025-06-20 11:19:18] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:19:18] INFO:    Max daily loss: 5.0%
+[2025-06-20 11:19:18] INFO:    Max drawdown: 10.0%
+[2025-06-20 11:19:18] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-20 11:19:18] INFO: 📊 Strategy: balanced
+[2025-06-20 11:19:18] INFO: 🎯 Min confirmations: 3
+[2025-06-20 11:19:18] INFO: 💰 Account balance: ₹5,000.00
+[2025-06-20 11:19:18] INFO: ✅ OrderExecutor initialized
+[2025-06-20 11:19:18] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 11:22:59] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-20 11:22:59] INFO:    SuperTrend: 10/3.0
+[2025-06-20 11:22:59] INFO:    RSI: 14 (30/70)
+[2025-06-20 11:22:59] INFO:    Min confirmations: 3
+[2025-06-20 11:23:06] INFO: Connected to Kite as: Prajal Kulkarni
+[2025-06-20 11:23:06] INFO: ✅ Loaded balanced strategy profile
+[2025-06-20 11:23:06] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-20 11:23:06] INFO:    SuperTrend: 10/3.0
+[2025-06-20 11:23:06] INFO:    RSI: 14 (30/70)
+[2025-06-20 11:23:06] INFO:    Min confirmations: 3
+[2025-06-20 11:23:06] INFO: ✅ Enhanced position sizer initialized
+[2025-06-20 11:23:06] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:23:06] INFO:    Base position size: 80.0%
+[2025-06-20 11:23:06] INFO: ✅ Enhanced risk manager initialized
+[2025-06-20 11:23:06] INFO:    Max risk per trade: 2.0%
+[2025-06-20 11:23:06] INFO:    Max daily loss: 5.0%
+[2025-06-20 11:23:06] INFO:    Max drawdown: 10.0%
+[2025-06-20 11:23:06] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-20 11:23:06] INFO: 📊 Strategy: balanced
+[2025-06-20 11:23:06] INFO: 🎯 Min confirmations: 3
+[2025-06-20 11:23:06] INFO: 💰 Account balance: ₹5,000.00
+[2025-06-20 11:23:06] INFO: ✅ OrderExecutor initialized
+[2025-06-20 11:23:06] INFO: ✅ Historical data: 27 records for 256265
+[2025-06-20 11:23:06] INFO: 📊 Enhanced Signal: SELL (Confidence: 60.0%)
+[2025-06-20 11:23:06] INFO: 🔍 Confirmations: Price Down, Test Signal

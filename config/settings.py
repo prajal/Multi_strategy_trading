@@ -1,76 +1,92 @@
 import os
-from dotenv import load_dotenv
-from typing import Dict, Any
-import json
 from pathlib import Path
+from dotenv import load_dotenv
 
-# Load environment variables from .env file
+# Load environment variables
 load_dotenv()
 
 class Settings:
-    """Centralized settings class"""
+    """Complete settings class with all required attributes for compatibility"""
     
-    # API Configuration
+    # API Keys from environment or hardcoded values
     KITE_API_KEY = os.getenv('KITE_API_KEY', 't4otrxd7h438r47b')
     KITE_API_SECRET = os.getenv('KITE_API_SECRET', 'rm4zbprszz13h5dhuoo2mp1czl1wxn45')
     KITE_REDIRECT_URI = os.getenv('KITE_REDIRECT_URI', 'http://localhost:3000')
     
-    # File paths
-    BASE_DIR = Path(__file__).parent.parent
-    DATA_DIR = BASE_DIR / 'data'
-    LOGS_DIR = BASE_DIR / 'logs'
-    CONFIG_DIR = BASE_DIR / 'config'
+    # File paths - using Path objects to support .exists() method
+    LOG_FILE = Path('logs/trading.log')
+    TOKEN_FILE = Path('data/kite_tokens.json')
+    TOKENS_FILE = Path('data/kite_tokens.json')  # Alternative naming
+    CONFIG_FILE = Path('saved_trading_config.json')
+    DATA_DIR = Path('data')
+    LOGS_DIR = Path('logs')
     
-    TOKEN_FILE = DATA_DIR / 'kite_tokens.json'
-    TRADING_CONFIG_FILE = DATA_DIR / 'trading_config.json'
-    LOG_FILE = LOGS_DIR / 'trading.log'
+    # API Configuration
+    API_CONFIG = {
+        'base_url': 'https://api.kite.trade',
+        'login_url': 'https://kite.zerodha.com/connect/login',
+        'redirect_uri': KITE_REDIRECT_URI,
+        'api_key': KITE_API_KEY,
+        'api_secret': KITE_API_SECRET
+    }
     
-    # Trading Configuration
+    # Strategy Parameters
     STRATEGY_PARAMS = {
-        "atr_period": 10,
-        "factor": 3.0,
-        "account_balance": 4000.0,
-        "capital_allocation_percent": 100.0,
-        "fixed_stop_loss": 100.0,
-        "max_positions": 1,
-        "min_trade_amount": 100,
-        "max_trade_amount": 4000,
-        "market_open_hour": 9,
-        "market_open_minute": 15,
-        "market_close_hour": 15,
-        "market_close_minute": 30,
-        "check_interval": 30,
-        "historical_days": 3,
-        "min_candles_required": 50
+        'atr_period': 10,
+        'factor': 3.0,
+        'historical_days': 5,
+        'min_candles_required': 50,
+        'check_interval': 30,
+        'account_balance': 5000.0,
+        'capital_allocation_percent': 80.0,
+        'fixed_stop_loss': 200.0,
+        'max_trade_amount': 4000
     }
     
     # Safety Configuration
     SAFETY_CONFIG = {
-        "live_trading_enabled": os.getenv('LIVE_TRADING_ENABLED', 'false').lower() == 'true',
-        "dry_run_mode": os.getenv('DRY_RUN_MODE', 'true').lower() == 'true',
-        "paper_trading_balance": 10000,
-        "enable_console_alerts": True,
-        "enable_trade_logging": True
+        'dry_run_mode': os.getenv('DRY_RUN_MODE', 'false').lower() == 'true',
+        'live_trading_enabled': os.getenv('LIVE_TRADING_ENABLED', 'true').lower() == 'true',
+        'max_daily_trades': 5,
+        'position_size_limit': 0.2,
+        'emergency_stop': False
+    }
+    
+    # Logging Configuration
+    LOGGING_CONFIG = {
+        'level': 'INFO',
+        'format': '[%(asctime)s] %(levelname)s: %(message)s',
+        'datefmt': '%Y-%m-%d %H:%M:%S',
+        'filename': str(LOG_FILE)  # Convert to string for logging
     }
     
     @classmethod
     def ensure_directories(cls):
-        """Create necessary directories"""
-        cls.DATA_DIR.mkdir(exist_ok=True)
-        cls.LOGS_DIR.mkdir(exist_ok=True)
-        cls.CONFIG_DIR.mkdir(exist_ok=True)
+        """Ensure all required directories exist"""
+        cls.LOGS_DIR.mkdir(parents=True, exist_ok=True)
+        cls.DATA_DIR.mkdir(parents=True, exist_ok=True)
+        Path('config').mkdir(parents=True, exist_ok=True)
     
     @classmethod
-    def load_trading_config(cls) -> Dict[str, Any]:
-        """Load trading configuration from file"""
-        if cls.TRADING_CONFIG_FILE.exists():
-            with open(cls.TRADING_CONFIG_FILE, 'r') as f:
-                return json.load(f)
-        return {}
-    
-    @classmethod
-    def save_trading_config(cls, config: Dict[str, Any]):
-        """Save trading configuration to file"""
+    def get_log_file_path(cls):
+        """Get the log file path"""
         cls.ensure_directories()
-        with open(cls.TRADING_CONFIG_FILE, 'w') as f:
-            json.dump(config, f, indent=2)
+        return str(cls.LOG_FILE)
+    
+    @classmethod
+    def get_tokens_file_path(cls):
+        """Get the tokens file path"""
+        cls.ensure_directories()
+        return str(cls.TOKEN_FILE)
+    
+    @classmethod
+    def load_config(cls):
+        """Load configuration (placeholder for future use)"""
+        cls.ensure_directories()
+        return True
+    
+    @classmethod
+    def save_config(cls):
+        """Save configuration (placeholder for future use)"""
+        cls.ensure_directories()
+        return True
