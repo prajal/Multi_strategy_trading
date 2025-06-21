@@ -8,7 +8,7 @@ from utils.logger import get_logger
 logger = get_logger(__name__)
 
 class KiteAuth:
-    """Handles Kite Connect authentication"""
+    """Handles Kite Connect authentication - FIXED VERSION"""
     
     def __init__(self):
         self.api_key = Settings.KITE_API_KEY
@@ -21,6 +21,10 @@ class KiteAuth:
         import urllib.parse
         login_url = f"https://kite.zerodha.com/connect/login?v=3&api_key={self.api_key}&redirect_uri={urllib.parse.quote_plus(Settings.KITE_REDIRECT_URI)}"
         return login_url
+    
+    def generate_access_token(self, request_token: str) -> bool:
+        """Generate access token using request token - FIXED METHOD NAME"""
+        return self.create_session(request_token)
     
     def create_session(self, request_token: str) -> bool:
         """Create session using request token"""
@@ -40,11 +44,11 @@ class KiteAuth:
             with open(self.token_file, 'w') as f:
                 json.dump(tokens, f, indent=2)
             
-            logger.info("Session created successfully")
+            logger.info("✅ Session created successfully")
             return True
             
         except Exception as e:
-            logger.error(f"Failed to create session: {e}")
+            logger.error(f"❌ Failed to create session: {e}")
             return False
     
     def get_kite_instance(self) -> KiteConnect:
@@ -54,7 +58,7 @@ class KiteAuth:
         
         try:
             if not self.token_file.exists():
-                logger.error("No token file found. Please authenticate first.")
+                logger.error("❌ No token file found. Please authenticate first.")
                 return None
             
             with open(self.token_file, 'r') as f:
@@ -65,12 +69,12 @@ class KiteAuth:
             
             # Test connection
             profile = self.kite.profile()
-            logger.info(f"Connected to Kite as: {profile.get('user_name', 'Unknown')}")
+            logger.info(f"✅ Connected to Kite as: {profile.get('user_name', 'Unknown')}")
             
             return self.kite
             
         except Exception as e:
-            logger.error(f"Failed to establish Kite session: {e}")
+            logger.error(f"❌ Failed to establish Kite session: {e}")
             return None
     
     def test_connection(self) -> bool:
@@ -82,10 +86,10 @@ class KiteAuth:
         try:
             profile = kite.profile()
             margins = kite.margins()
-            logger.info("Connection test successful")
+            logger.info("✅ Connection test successful")
             return True
         except Exception as e:
-            logger.error(f"Connection test failed: {e}")
+            logger.error(f"❌ Connection test failed: {e}")
             return False
     
     def invalidate_token(self):
@@ -93,12 +97,12 @@ class KiteAuth:
         if self.kite:
             try:
                 self.kite.invalidate_access_token()
-                logger.info("Token invalidated successfully")
+                logger.info("✅ Token invalidated successfully")
             except Exception as e:
-                logger.warning(f"Error invalidating token: {e}")
+                logger.warning(f"⚠️ Error invalidating token: {e}")
         
         if self.token_file.exists():
             self.token_file.unlink()
-            logger.info("Token file removed")
+            logger.info("✅ Token file removed")
         
         self.kite = None

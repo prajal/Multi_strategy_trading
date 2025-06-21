@@ -4124,3 +4124,1492 @@
 [2025-06-20 16:53:42] INFO: 🔄 Closing open position before shutdown...
 [2025-06-20 16:53:43] WARNING: No quote data for NSE:2707457
 [2025-06-20 16:53:43] INFO: 📅 Enhanced trading session ended
+[2025-06-21 17:40:01] ERROR: Failed to establish Kite session: Incorrect `api_key` or `access_token`.
+[2025-06-21 17:40:40] ERROR: Failed to establish Kite session: Incorrect `api_key` or `access_token`.
+[2025-06-21 17:42:07] ERROR: Failed to establish Kite session: Incorrect `api_key` or `access_token`.
+[2025-06-21 17:47:34] ERROR: ❌ Failed to establish Kite session: Incorrect `api_key` or `access_token`.
+[2025-06-21 17:47:46] INFO: ✅ Session created successfully
+[2025-06-21 17:50:56] INFO: ✅ Connected to Kite as: Prajal Kulkarni
+[2025-06-21 17:51:10] INFO: ✅ Connected to Kite as: Prajal Kulkarni
+[2025-06-21 17:51:11] INFO: ✅ Loaded balanced strategy profile
+[2025-06-21 17:51:11] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-21 17:51:11] INFO:    SuperTrend: 10/3.0
+[2025-06-21 17:51:11] INFO:    RSI: 14 (30/70)
+[2025-06-21 17:51:11] INFO:    Min confirmations: 3
+[2025-06-21 17:51:11] INFO: ✅ Enhanced position sizer initialized
+[2025-06-21 17:51:11] INFO:    Max risk per trade: 2.0%
+[2025-06-21 17:51:11] INFO:    Base position size: 80.0%
+[2025-06-21 17:51:11] INFO: ✅ Enhanced risk manager initialized
+[2025-06-21 17:51:11] INFO:    Max risk per trade: 2.0%
+[2025-06-21 17:51:11] INFO:    Max daily loss: 5.0%
+[2025-06-21 17:51:11] INFO:    Max drawdown: 10.0%
+[2025-06-21 17:51:11] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-21 17:51:11] INFO: 📊 Strategy: balanced
+[2025-06-21 17:51:11] INFO: 🎯 Min confirmations: 3
+[2025-06-21 17:51:11] INFO: 💰 Account balance: ₹20,000.00
+[2025-06-21 17:51:11] INFO: ✅ OrderExecutor initialized
+[2025-06-21 17:51:11] INFO: ✅ Historical data: 13 records for 256265
+[2025-06-21 17:51:11] WARNING: Insufficient data: 13 rows, need 26
+[2025-06-21 18:53:38] INFO: ✅ Connected to Kite as: Prajal Kulkarni
+[2025-06-21 18:53:38] INFO: ✅ Loaded balanced strategy profile
+[2025-06-21 18:53:38] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-21 18:53:38] INFO:    SuperTrend: 10/3.0
+[2025-06-21 18:53:38] INFO:    RSI: 14 (30/70)
+[2025-06-21 18:53:38] INFO:    Min confirmations: 3
+[2025-06-21 18:53:38] INFO: ✅ Enhanced position sizer initialized
+[2025-06-21 18:53:38] INFO:    Max risk per trade: 2.0%
+[2025-06-21 18:53:38] INFO:    Base position size: 80.0%
+[2025-06-21 18:53:38] INFO: ✅ Enhanced risk manager initialized
+[2025-06-21 18:53:38] INFO:    Max risk per trade: 2.0%
+[2025-06-21 18:53:38] INFO:    Max daily loss: 5.0%
+[2025-06-21 18:53:38] INFO:    Max drawdown: 10.0%
+[2025-06-21 18:53:38] INFO: 🚀 Enhanced Trading Bot initialized
+[2025-06-21 18:53:38] INFO: 📊 Strategy: balanced
+[2025-06-21 18:53:38] INFO: 🎯 Min confirmations: 3
+[2025-06-21 18:53:38] INFO: 💰 Account balance: ₹20,000.00
+[2025-06-21 18:53:38] INFO: ✅ OrderExecutor initialized
+[2025-06-21 18:53:38] INFO: ✅ Historical data: 13 records for 256265
+[2025-06-21 18:53:38] WARNING: Insufficient data: 13 rows, need 26
+[2025-06-21 18:53:49] INFO: ✅ Enhanced multi-indicator strategy initialized
+[2025-06-21 18:53:49] INFO:    SuperTrend: 10/3.0
+[2025-06-21 18:53:49] INFO:    RSI: 14 (30/70)
+[2025-06-21 18:53:49] INFO:    Min confirmations: 3
+[2025-06-21 18:53:49] INFO: ✅ Enhanced position sizer initialized
+[2025-06-21 18:53:49] INFO:    Max risk per trade: 2.0%
+[2025-06-21 18:53:49] INFO:    Base position size: 80.0%
+[2025-06-21 18:53:49] INFO: ✅ Enhanced risk manager initialized
+[2025-06-21 18:53:49] INFO:    Max risk per trade: 2.0%
+[2025-06-21 18:53:49] INFO:    Max daily loss: 5.0%
+[2025-06-21 18:53:49] INFO:    Max drawdown: 10.0%
+[2025-06-21 18:53:49] INFO: 🎯 Backtest engine initialized
+[2025-06-21 18:53:49] INFO:    Initial capital: ₹20,000.00
+[2025-06-21 18:53:49] INFO:    Strategy: unknown
+[2025-06-21 18:53:50] INFO: ✅ Connected to Kite as: Prajal Kulkarni
+[2025-06-21 18:53:50] INFO: 🎯 Preparing backtest data
+[2025-06-21 18:53:50] INFO: 📊 Signal source: 256265
+[2025-06-21 18:53:50] INFO: 💰 Trading prices: 2707457
+[2025-06-21 18:53:50] INFO: 📊 Fetching data for 256265
+[2025-06-21 18:53:50] INFO: 📅 Period: 2025-05-22 to 2025-06-21
+[2025-06-21 18:53:50] INFO: ⏱️ Interval: 30minute
+[2025-06-21 18:53:50] INFO: ✅ Data fetched: 286 records
+[2025-06-21 18:53:50] INFO: 📈 Price range: ₹24524.20 - ₹25208.05
+[2025-06-21 18:53:50] INFO: 📊 Fetching data for 2707457
+[2025-06-21 18:53:50] INFO: 📅 Period: 2025-05-22 to 2025-06-21
+[2025-06-21 18:53:50] INFO: ⏱️ Interval: 30minute
+[2025-06-21 18:53:50] INFO: ✅ Data fetched: 286 records
+[2025-06-21 18:53:50] INFO: 📈 Price range: ₹275.15 - ₹282.65
+[2025-06-21 18:53:50] INFO: 📊 Combined data: 286 records
+[2025-06-21 18:53:50] INFO: 📈 Signal price avg: ₹24845.52
+[2025-06-21 18:53:50] INFO: 💰 Trading price avg: ₹278.71
+[2025-06-21 18:53:50] INFO: 📊 Price ratio: 89.15
+[2025-06-21 18:53:50] INFO: 🚀 Starting backtest...
+[2025-06-21 18:53:50] INFO: 📊 Backtesting period: 2025-05-22 09:15:00+05:30 to 2025-06-20 15:15:00+05:30
+[2025-06-21 18:53:50] INFO: 📈 Data points: 286 candles
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24831.80 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 39.4 | ATR: ₹102.20
+[2025-06-21 18:53:50] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:50] INFO:    Account: ₹20,000.00
+[2025-06-21 18:53:50] INFO:    Price: ₹24831.80
+[2025-06-21 18:53:50] INFO:    ATR: ₹248.32
+[2025-06-21 18:53:50] INFO:    Confidence: 33.3%
+[2025-06-21 18:53:50] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:50] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:50] INFO:    Margin: ₹4,966.36
+[2025-06-21 18:53:50] INFO:    Trade Value: ₹24,831.80
+[2025-06-21 18:53:50] INFO:    Risk: 2.5%
+[2025-06-21 18:53:50] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24837.70 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 39.0 | ATR: ₹101.51
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24807.25 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 37.9 | ATR: ₹109.15
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24760.50 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 45.0 | ATR: ₹97.10
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24752.70 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 48.0 | ATR: ₹93.23
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24756.35 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 38.1 | ATR: ₹81.39
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Oversold, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24761.70 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 25.6 | ATR: ₹70.19
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24795.10 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 31.8 | ATR: ₹68.12
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24791.35 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 40.2 | ATR: ₹60.62
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24776.70 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 42.1 | ATR: ₹57.11
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24788.55 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 41.1 | ATR: ₹56.33
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24782.00 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 52.8 | ATR: ₹49.30
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24748.50 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 44.2 | ATR: ₹46.22
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24757.15 | SuperTrend: ₹24694.82
+[2025-06-21 18:53:50] INFO: 📊 RSI: 34.2 | ATR: ₹42.06
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 0
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24808.75 | SuperTrend: ₹24706.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 44.9 | ATR: ₹49.62
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 0
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24801.75 | SuperTrend: ₹24706.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 48.9 | ATR: ₹45.76
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24743.20 | SuperTrend: ₹24706.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 46.8 | ATR: ₹45.99
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24723.55 | SuperTrend: ₹24706.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 44.8 | ATR: ₹47.31
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24732.60 | SuperTrend: ₹24706.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 43.6 | ATR: ₹46.55
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24732.05 | SuperTrend: ₹24706.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 45.4 | ATR: ₹45.26
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 1, Sell Score: 6
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24700.55 | SuperTrend: ₹24706.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 39.5 | ATR: ₹48.97
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 1, Sell Score: 6
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24700.55 | SuperTrend: ₹24706.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 39.5 | ATR: ₹48.97
+[2025-06-21 18:53:50] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:50] INFO:    Account: ₹19,868.75
+[2025-06-21 18:53:50] INFO:    Price: ₹24700.55
+[2025-06-21 18:53:50] INFO:    ATR: ₹247.01
+[2025-06-21 18:53:50] INFO:    Confidence: 50.0%
+[2025-06-21 18:53:50] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:50] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:50] INFO:    Margin: ₹4,940.11
+[2025-06-21 18:53:50] INFO:    Trade Value: ₹24,700.55
+[2025-06-21 18:53:50] INFO:    Risk: 2.5%
+[2025-06-21 18:53:50] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24760.75 | SuperTrend: ₹24851.83
+[2025-06-21 18:53:50] INFO: 📊 RSI: 44.6 | ATR: ₹51.51
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 2, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24754.75 | SuperTrend: ₹24851.83
+[2025-06-21 18:53:50] INFO: 📊 RSI: 44.3 | ATR: ₹51.02
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24725.60 | SuperTrend: ₹24851.83
+[2025-06-21 18:53:50] INFO: 📊 RSI: 42.3 | ATR: ₹51.83
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 2, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24756.30 | SuperTrend: ₹24851.83
+[2025-06-21 18:53:50] INFO: 📊 RSI: 45.4 | ATR: ₹52.93
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24850.75 | SuperTrend: ₹24851.83
+[2025-06-21 18:53:50] INFO: 📊 RSI: 57.8 | ATR: ₹59.11
+[2025-06-21 18:53:50] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:50] INFO:    Account: ₹19,718.55
+[2025-06-21 18:53:50] INFO:    Price: ₹24850.75
+[2025-06-21 18:53:50] INFO:    ATR: ₹248.51
+[2025-06-21 18:53:50] INFO:    Confidence: 33.3%
+[2025-06-21 18:53:50] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:50] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:50] INFO:    Margin: ₹4,970.15
+[2025-06-21 18:53:50] INFO:    Trade Value: ₹24,850.75
+[2025-06-21 18:53:50] INFO:    Risk: 2.5%
+[2025-06-21 18:53:50] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24880.85 | SuperTrend: ₹24851.83
+[2025-06-21 18:53:50] INFO: 📊 RSI: 65.1 | ATR: ₹60.38
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24880.85 | SuperTrend: ₹24851.83
+[2025-06-21 18:53:50] INFO: 📊 RSI: 65.1 | ATR: ₹60.38
+[2025-06-21 18:53:50] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:50] INFO:    Account: ₹19,688.45
+[2025-06-21 18:53:50] INFO:    Price: ₹24880.85
+[2025-06-21 18:53:50] INFO:    ATR: ₹248.81
+[2025-06-21 18:53:50] INFO:    Confidence: 33.3%
+[2025-06-21 18:53:50] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:50] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:50] INFO:    Margin: ₹4,976.17
+[2025-06-21 18:53:50] INFO:    Trade Value: ₹24,880.85
+[2025-06-21 18:53:50] INFO:    Risk: 2.5%
+[2025-06-21 18:53:50] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24819.10 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 56.3 | ATR: ₹66.34
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 6, Sell Score: 1
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bullish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24794.75 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 48.5 | ATR: ₹60.41
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24737.60 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 43.7 | ATR: ₹60.89
+[2025-06-21 18:53:50] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:50] INFO:    Account: ₹19,545.20
+[2025-06-21 18:53:50] INFO:    Price: ₹24737.60
+[2025-06-21 18:53:50] INFO:    ATR: ₹247.38
+[2025-06-21 18:53:50] INFO:    Confidence: 33.3%
+[2025-06-21 18:53:50] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:50] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:50] INFO:    Margin: ₹4,947.52
+[2025-06-21 18:53:50] INFO:    Trade Value: ₹24,737.60
+[2025-06-21 18:53:50] INFO:    Risk: 2.5%
+[2025-06-21 18:53:50] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 3, Sell Score: 1
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24754.30 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 51.2 | ATR: ₹60.17
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 3, Sell Score: 1
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24745.40 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 52.4 | ATR: ₹59.39
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 3, Sell Score: 4
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24741.80 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 51.0 | ATR: ₹59.39
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 3, Sell Score: 4
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24741.80 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 51.0 | ATR: ₹59.39
+[2025-06-21 18:53:50] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:50] INFO:    Account: ₹19,549.40
+[2025-06-21 18:53:50] INFO:    Price: ₹24741.80
+[2025-06-21 18:53:50] INFO:    ATR: ₹247.42
+[2025-06-21 18:53:50] INFO:    Confidence: 33.3%
+[2025-06-21 18:53:50] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:50] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:50] INFO:    Margin: ₹4,948.36
+[2025-06-21 18:53:50] INFO:    Trade Value: ₹24,741.80
+[2025-06-21 18:53:50] INFO:    Risk: 2.5%
+[2025-06-21 18:53:50] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 3, Sell Score: 4
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24737.15 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 50.6 | ATR: ₹59.96
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24758.60 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 56.5 | ATR: ₹56.50
+[2025-06-21 18:53:50] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:50] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:50] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:50] INFO: 💰 Price: ₹24758.60 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:50] INFO: 📊 RSI: 56.5 | ATR: ₹56.50
+[2025-06-21 18:53:50] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:50] INFO:    Account: ₹19,532.60
+[2025-06-21 18:53:50] INFO:    Price: ₹24758.60
+[2025-06-21 18:53:50] INFO:    ATR: ₹247.59
+[2025-06-21 18:53:50] INFO:    Confidence: 33.3%
+[2025-06-21 18:53:50] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:50] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:50] INFO:    Margin: ₹4,951.72
+[2025-06-21 18:53:50] INFO:    Trade Value: ₹24,758.60
+[2025-06-21 18:53:50] INFO:    Risk: 2.5%
+[2025-06-21 18:53:50] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24771.65 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:51] INFO: 📊 RSI: 51.4 | ATR: ₹53.41
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24753.60 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:51] INFO: 📊 RSI: 49.9 | ATR: ₹54.64
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 3, Sell Score: 2
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24769.45 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:51] INFO: 📊 RSI: 55.5 | ATR: ₹54.14
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24751.65 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:51] INFO: 📊 RSI: 49.4 | ATR: ₹54.48
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24736.65 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:51] INFO: 📊 RSI: 31.5 | ATR: ₹48.10
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24571.60 | SuperTrend: ₹24695.93
+[2025-06-21 18:53:51] INFO: 📊 RSI: 15.1 | ATR: ₹59.17
+[2025-06-21 18:53:51] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:51] INFO:    Account: ₹19,345.60
+[2025-06-21 18:53:51] INFO:    Price: ₹24571.60
+[2025-06-21 18:53:51] INFO:    ATR: ₹245.72
+[2025-06-21 18:53:51] INFO:    Confidence: 41.7%
+[2025-06-21 18:53:51] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:51] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:51] INFO:    Margin: ₹4,914.32
+[2025-06-21 18:53:51] INFO:    Trade Value: ₹24,571.60
+[2025-06-21 18:53:51] INFO:    Risk: 2.5%
+[2025-06-21 18:53:51] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24581.75 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 19.7 | ATR: ₹55.53
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24629.40 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 30.1 | ATR: ₹57.64
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24623.25 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 34.3 | ATR: ₹54.44
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24625.50 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 31.6 | ATR: ₹53.83
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24665.55 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 39.5 | ATR: ₹54.47
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24723.85 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 47.9 | ATR: ₹56.94
+[2025-06-21 18:53:51] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:51] INFO:    Account: ₹19,193.35
+[2025-06-21 18:53:51] INFO:    Price: ₹24723.85
+[2025-06-21 18:53:51] INFO:    ATR: ₹247.24
+[2025-06-21 18:53:51] INFO:    Confidence: 41.7%
+[2025-06-21 18:53:51] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:51] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:51] INFO:    Margin: ₹4,944.77
+[2025-06-21 18:53:51] INFO:    Trade Value: ₹24,723.85
+[2025-06-21 18:53:51] INFO:    Risk: 2.6%
+[2025-06-21 18:53:51] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24702.90 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 46.2 | ATR: ₹58.83
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24728.25 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 46.7 | ATR: ₹59.01
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24693.85 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 41.8 | ATR: ₹60.29
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24667.65 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 41.1 | ATR: ₹60.48
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24724.00 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 45.7 | ATR: ₹64.91
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24690.35 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 44.3 | ATR: ₹65.18
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24646.80 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 42.1 | ATR: ₹80.74
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 0, Sell Score: 4
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24661.70 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 60.7 | ATR: ₹70.44
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 0, Sell Score: 4
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24642.85 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 57.1 | ATR: ₹77.90
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 6
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24590.20 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 45.5 | ATR: ₹77.75
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 6
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24594.25 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 46.6 | ATR: ₹82.16
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24615.35 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 48.9 | ATR: ₹82.64
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24628.15 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 45.6 | ATR: ₹83.58
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24541.45 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 29.8 | ATR: ₹87.32
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24539.90 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 31.1 | ATR: ₹87.48
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24577.15 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 33.0 | ATR: ₹88.44
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24586.05 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 37.1 | ATR: ₹87.83
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 6
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24535.20 | SuperTrend: ₹24748.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 35.1 | ATR: ₹88.07
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 6
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24538.40 | SuperTrend: ₹24729.24
+[2025-06-21 18:53:51] INFO: 📊 RSI: 26.2 | ATR: ₹82.97
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24553.85 | SuperTrend: ₹24729.24
+[2025-06-21 18:53:51] INFO: 📊 RSI: 31.6 | ATR: ₹84.26
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24578.75 | SuperTrend: ₹24729.24
+[2025-06-21 18:53:51] INFO: 📊 RSI: 40.4 | ATR: ₹71.18
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24600.80 | SuperTrend: ₹24729.24
+[2025-06-21 18:53:51] INFO: 📊 RSI: 41.5 | ATR: ₹69.30
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24581.55 | SuperTrend: ₹24729.24
+[2025-06-21 18:53:51] INFO: 📊 RSI: 41.5 | ATR: ₹60.19
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24592.70 | SuperTrend: ₹24724.61
+[2025-06-21 18:53:51] INFO: 📊 RSI: 50.4 | ATR: ₹56.79
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24607.75 | SuperTrend: ₹24723.97
+[2025-06-21 18:53:51] INFO: 📊 RSI: 52.0 | ATR: ₹52.06
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24600.60 | SuperTrend: ₹24717.81
+[2025-06-21 18:53:51] INFO: 📊 RSI: 47.7 | ATR: ₹50.21
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 2, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24600.25 | SuperTrend: ₹24717.81
+[2025-06-21 18:53:51] INFO: 📊 RSI: 45.4 | ATR: ₹47.48
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24605.70 | SuperTrend: ₹24708.76
+[2025-06-21 18:53:51] INFO: 📊 RSI: 64.4 | ATR: ₹40.10
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24616.55 | SuperTrend: ₹24708.76
+[2025-06-21 18:53:51] INFO: 📊 RSI: 66.5 | ATR: ₹38.14
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24615.15 | SuperTrend: ₹24708.65
+[2025-06-21 18:53:51] INFO: 📊 RSI: 59.7 | ATR: ₹35.94
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 0, Sell Score: 5
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24616.90 | SuperTrend: ₹24708.65
+[2025-06-21 18:53:51] INFO: 📊 RSI: 58.2 | ATR: ₹35.37
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 0, Sell Score: 6
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Overbought, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24612.00 | SuperTrend: ₹24689.80
+[2025-06-21 18:53:51] INFO: 📊 RSI: 76.9 | ATR: ₹32.77
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24747.15 | SuperTrend: ₹24689.80
+[2025-06-21 18:53:51] INFO: 📊 RSI: 88.0 | ATR: ₹40.98
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24747.15 | SuperTrend: ₹24689.80
+[2025-06-21 18:53:51] INFO: 📊 RSI: 88.0 | ATR: ₹40.98
+[2025-06-21 18:53:51] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:51] INFO:    Account: ₹19,170.05
+[2025-06-21 18:53:51] INFO:    Price: ₹24747.15
+[2025-06-21 18:53:51] INFO:    ATR: ₹247.47
+[2025-06-21 18:53:51] INFO:    Confidence: 50.0%
+[2025-06-21 18:53:51] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:51] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:51] INFO:    Margin: ₹4,949.43
+[2025-06-21 18:53:51] INFO:    Trade Value: ₹24,747.15
+[2025-06-21 18:53:51] INFO:    Risk: 2.6%
+[2025-06-21 18:53:51] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24732.25 | SuperTrend: ₹24629.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 82.5 | ATR: ₹38.19
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24718.35 | SuperTrend: ₹24629.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 76.5 | ATR: ₹36.10
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24708.80 | SuperTrend: ₹24629.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 71.5 | ATR: ₹35.57
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24728.75 | SuperTrend: ₹24629.66
+[2025-06-21 18:53:51] INFO: 📊 RSI: 79.3 | ATR: ₹36.97
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24869.55 | SuperTrend: ₹24630.16
+[2025-06-21 18:53:51] INFO: 📊 RSI: 86.3 | ATR: ₹46.37
+[2025-06-21 18:53:51] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:51] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:51] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:51] INFO: 💰 Price: ₹24817.95 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:51] INFO: 📊 RSI: 75.2 | ATR: ₹51.84
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24776.95 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:52] INFO: 📊 RSI: 69.5 | ATR: ₹54.29
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking Low
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24730.60 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:52] INFO: 📊 RSI: 63.1 | ATR: ₹57.99
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking Low
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24713.55 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:52] INFO: 📊 RSI: 60.6 | ATR: ₹61.00
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24751.55 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:52] INFO: 📊 RSI: 62.6 | ATR: ₹63.48
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24752.55 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:52] INFO: 📊 RSI: 62.8 | ATR: ₹66.08
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24761.10 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:52] INFO: 📊 RSI: 63.3 | ATR: ₹65.81
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 3, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24687.35 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:52] INFO: 📊 RSI: 56.2 | ATR: ₹70.09
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 3, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24750.60 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:52] INFO: 📊 RSI: 50.3 | ATR: ₹70.42
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24912.50 | SuperTrend: ₹24663.21
+[2025-06-21 18:53:52] INFO: 📊 RSI: 63.1 | ATR: ₹81.35
+[2025-06-21 18:53:52] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:52] INFO:    Account: ₹19,335.40
+[2025-06-21 18:53:52] INFO:    Price: ₹24912.50
+[2025-06-21 18:53:52] INFO:    ATR: ₹249.12
+[2025-06-21 18:53:52] INFO:    Confidence: 50.0%
+[2025-06-21 18:53:52] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:52] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:52] INFO:    Margin: ₹4,982.50
+[2025-06-21 18:53:52] INFO:    Trade Value: ₹24,912.50
+[2025-06-21 18:53:52] INFO:    Risk: 2.6%
+[2025-06-21 18:53:52] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24983.05 | SuperTrend: ₹24694.49
+[2025-06-21 18:53:52] INFO: 📊 RSI: 67.8 | ATR: ₹84.43
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25006.35 | SuperTrend: ₹24736.28
+[2025-06-21 18:53:52] INFO: 📊 RSI: 69.7 | ATR: ₹85.50
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24998.85 | SuperTrend: ₹24776.16
+[2025-06-21 18:53:52] INFO: 📊 RSI: 68.1 | ATR: ₹84.77
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking Low
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24981.10 | SuperTrend: ₹24776.16
+[2025-06-21 18:53:52] INFO: 📊 RSI: 59.0 | ATR: ₹75.66
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking Low
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24969.05 | SuperTrend: ₹24776.16
+[2025-06-21 18:53:52] INFO: 📊 RSI: 63.0 | ATR: ₹70.07
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24981.75 | SuperTrend: ₹24776.16
+[2025-06-21 18:53:52] INFO: 📊 RSI: 68.5 | ATR: ₹68.22
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24990.00 | SuperTrend: ₹24777.44
+[2025-06-21 18:53:52] INFO: 📊 RSI: 75.2 | ATR: ₹64.18
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹24988.45 | SuperTrend: ₹24810.83
+[2025-06-21 18:53:52] INFO: 📊 RSI: 77.5 | ATR: ₹62.05
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25002.10 | SuperTrend: ₹24839.77
+[2025-06-21 18:53:52] INFO: 📊 RSI: 76.3 | ATR: ₹59.68
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25000.30 | SuperTrend: ₹24894.65
+[2025-06-21 18:53:52] INFO: 📊 RSI: 76.0 | ATR: ₹57.10
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25108.40 | SuperTrend: ₹24986.34
+[2025-06-21 18:53:52] INFO: 📊 RSI: 80.1 | ATR: ₹66.37
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25119.15 | SuperTrend: ₹24986.34
+[2025-06-21 18:53:52] INFO: 📊 RSI: 92.1 | ATR: ₹63.30
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25134.45 | SuperTrend: ₹24997.35
+[2025-06-21 18:53:52] INFO: 📊 RSI: 91.3 | ATR: ₹54.68
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25121.60 | SuperTrend: ₹25010.79
+[2025-06-21 18:53:52] INFO: 📊 RSI: 83.1 | ATR: ₹42.60
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25112.25 | SuperTrend: ₹25010.79
+[2025-06-21 18:53:52] INFO: 📊 RSI: 75.3 | ATR: ₹38.76
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25116.55 | SuperTrend: ₹25010.79
+[2025-06-21 18:53:52] INFO: 📊 RSI: 73.4 | ATR: ₹36.52
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25117.25 | SuperTrend: ₹25010.79
+[2025-06-21 18:53:52] INFO: 📊 RSI: 75.8 | ATR: ₹35.58
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25109.10 | SuperTrend: ₹25010.79
+[2025-06-21 18:53:52] INFO: 📊 RSI: 79.2 | ATR: ₹34.25
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25109.75 | SuperTrend: ₹25010.79
+[2025-06-21 18:53:52] INFO: 📊 RSI: 83.8 | ATR: ₹33.94
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25102.35 | SuperTrend: ₹25027.56
+[2025-06-21 18:53:52] INFO: 📊 RSI: 75.7 | ATR: ₹33.50
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25103.20 | SuperTrend: ₹25037.84
+[2025-06-21 18:53:52] INFO: 📊 RSI: 76.3 | ATR: ₹31.97
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25103.10 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:52] INFO: 📊 RSI: 74.7 | ATR: ₹30.64
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 3, Sell Score: 2
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25109.05 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:52] INFO: 📊 RSI: 76.1 | ATR: ₹39.67
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 3, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25156.90 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:52] INFO: 📊 RSI: 66.4 | ATR: ₹32.14
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 3, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25149.20 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:52] INFO: 📊 RSI: 60.4 | ATR: ₹32.23
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 4, Sell Score: 0
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25127.70 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:52] INFO: 📊 RSI: 47.8 | ATR: ₹34.06
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 3, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25134.80 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:52] INFO: 📊 RSI: 54.5 | ATR: ₹34.06
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25133.50 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:52] INFO: 📊 RSI: 57.7 | ATR: ₹33.87
+[2025-06-21 18:53:52] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:52] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:52] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:52] INFO: 💰 Price: ₹25136.50 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:52] INFO: 📊 RSI: 57.3 | ATR: ₹34.04
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25130.50 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:53] INFO: 📊 RSI: 54.7 | ATR: ₹33.63
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25129.15 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:53] INFO: 📊 RSI: 57.4 | ATR: ₹33.97
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25127.55 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:53] INFO: 📊 RSI: 56.6 | ATR: ₹33.74
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 3, Sell Score: 2
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25112.80 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:53] INFO: 📊 RSI: 58.5 | ATR: ₹33.54
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 3, Sell Score: 2
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25104.70 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:53] INFO: 📊 RSI: 50.9 | ATR: ₹34.44
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25091.50 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:53] INFO: 📊 RSI: 45.8 | ATR: ₹35.15
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25126.20 | SuperTrend: ₹25047.62
+[2025-06-21 18:53:53] INFO: 📊 RSI: 56.6 | ATR: ₹39.26
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25146.35 | SuperTrend: ₹25048.69
+[2025-06-21 18:53:53] INFO: 📊 RSI: 59.9 | ATR: ₹32.31
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25173.75 | SuperTrend: ₹25059.09
+[2025-06-21 18:53:53] INFO: 📊 RSI: 55.0 | ATR: ₹31.38
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25180.80 | SuperTrend: ₹25083.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 59.4 | ATR: ₹30.34
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25187.80 | SuperTrend: ₹25094.51
+[2025-06-21 18:53:53] INFO: 📊 RSI: 69.7 | ATR: ₹28.49
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25205.95 | SuperTrend: ₹25099.65
+[2025-06-21 18:53:53] INFO: 📊 RSI: 71.7 | ATR: ₹29.22
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 6, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25199.55 | SuperTrend: ₹25099.65
+[2025-06-21 18:53:53] INFO: 📊 RSI: 69.6 | ATR: ₹30.36
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25208.05 | SuperTrend: ₹25103.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 70.5 | ATR: ₹30.85
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 3, Sell Score: 2
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25155.65 | SuperTrend: ₹25103.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 55.7 | ATR: ₹33.83
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25127.85 | SuperTrend: ₹25103.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 49.7 | ATR: ₹35.81
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 3, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25135.20 | SuperTrend: ₹25103.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 51.5 | ATR: ₹36.68
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25144.95 | SuperTrend: ₹25103.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 56.5 | ATR: ₹36.70
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 3, Sell Score: 2
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25126.80 | SuperTrend: ₹25103.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 54.3 | ATR: ₹35.66
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: BUY (Confidence: 25.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 3, Sell Score: 2
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25103.50 | SuperTrend: ₹25103.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 52.2 | ATR: ₹40.81
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25096.80 | SuperTrend: ₹25103.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 43.9 | ATR: ₹40.29
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25096.80 | SuperTrend: ₹25103.22
+[2025-06-21 18:53:53] INFO: 📊 RSI: 43.9 | ATR: ₹40.29
+[2025-06-21 18:53:53] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:53] INFO:    Account: ₹19,519.70
+[2025-06-21 18:53:53] INFO:    Price: ₹25096.80
+[2025-06-21 18:53:53] INFO:    ATR: ₹250.97
+[2025-06-21 18:53:53] INFO:    Confidence: 30.0%
+[2025-06-21 18:53:53] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:53] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:53] INFO:    Margin: ₹5,019.36
+[2025-06-21 18:53:53] INFO:    Trade Value: ₹25,096.80
+[2025-06-21 18:53:53] INFO:    Risk: 2.6%
+[2025-06-21 18:53:53] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25044.65 | SuperTrend: ₹25220.46
+[2025-06-21 18:53:53] INFO: 📊 RSI: 31.3 | ATR: ₹42.26
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 2, Sell Score: 6
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25046.15 | SuperTrend: ₹25191.21
+[2025-06-21 18:53:53] INFO: 📊 RSI: 24.1 | ATR: ₹41.28
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 2, Sell Score: 6
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25035.60 | SuperTrend: ₹25191.21
+[2025-06-21 18:53:53] INFO: 📊 RSI: 20.9 | ATR: ₹44.91
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25039.15 | SuperTrend: ₹25173.38
+[2025-06-21 18:53:53] INFO: 📊 RSI: 19.8 | ATR: ₹45.63
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25057.20 | SuperTrend: ₹25173.38
+[2025-06-21 18:53:53] INFO: 📊 RSI: 19.8 | ATR: ₹45.50
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹25041.10 | SuperTrend: ₹25173.38
+[2025-06-21 18:53:53] INFO: 📊 RSI: 19.0 | ATR: ₹46.84
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 2, Sell Score: 6
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹24911.90 | SuperTrend: ₹25159.06
+[2025-06-21 18:53:53] INFO: 📊 RSI: 10.7 | ATR: ₹54.92
+[2025-06-21 18:53:53] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:53] INFO:    Account: ₹19,704.60
+[2025-06-21 18:53:53] INFO:    Price: ₹24911.90
+[2025-06-21 18:53:53] INFO:    ATR: ₹249.12
+[2025-06-21 18:53:53] INFO:    Confidence: 50.0%
+[2025-06-21 18:53:53] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:53] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:53] INFO:    Margin: ₹4,982.38
+[2025-06-21 18:53:53] INFO:    Trade Value: ₹24,911.90
+[2025-06-21 18:53:53] INFO:    Risk: 2.5%
+[2025-06-21 18:53:53] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 2, Sell Score: 6
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking Low
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹24847.40 | SuperTrend: ₹25082.88
+[2025-06-21 18:53:53] INFO: 📊 RSI: 10.3 | ATR: ₹57.91
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹24891.70 | SuperTrend: ₹25076.65
+[2025-06-21 18:53:53] INFO: 📊 RSI: 20.9 | ATR: ₹59.37
+[2025-06-21 18:53:53] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:53] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:53] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:53] INFO: 💰 Price: ₹24887.55 | SuperTrend: ₹25076.65
+[2025-06-21 18:53:53] INFO: 📊 RSI: 19.2 | ATR: ₹60.00
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 2, Sell Score: 6
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking Low
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24856.00 | SuperTrend: ₹25048.37
+[2025-06-21 18:53:54] INFO: 📊 RSI: 15.9 | ATR: ₹60.83
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24621.20 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 10.5 | ATR: ₹86.63
+[2025-06-21 18:53:54] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:54] INFO:    Account: ₹19,995.30
+[2025-06-21 18:53:54] INFO:    Price: ₹24621.20
+[2025-06-21 18:53:54] INFO:    ATR: ₹246.21
+[2025-06-21 18:53:54] INFO:    Confidence: 41.7%
+[2025-06-21 18:53:54] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:54] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:54] INFO:    Margin: ₹4,924.24
+[2025-06-21 18:53:54] INFO:    Trade Value: ₹24,621.20
+[2025-06-21 18:53:54] INFO:    Risk: 2.5%
+[2025-06-21 18:53:54] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24644.15 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 14.1 | ATR: ₹84.14
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 3, Sell Score: 5
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24673.95 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 18.1 | ATR: ₹83.94
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24653.75 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 19.0 | ATR: ₹81.64
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 3, Sell Score: 5
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24679.30 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 22.0 | ATR: ₹83.53
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 3, Sell Score: 5
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24688.95 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 23.5 | ATR: ₹80.43
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24690.80 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 23.3 | ATR: ₹80.60
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 2, Sell Score: 6
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking Low
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24686.00 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 21.0 | ATR: ₹80.01
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 3, Sell Score: 5
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Oversold, MACD Bearish, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24735.05 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 27.2 | ATR: ₹80.25
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24715.85 | SuperTrend: ₹24848.99
+[2025-06-21 18:53:54] INFO: 📊 RSI: 32.6 | ATR: ₹73.89
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24687.65 | SuperTrend: ₹24840.07
+[2025-06-21 18:53:54] INFO: 📊 RSI: 34.8 | ATR: ₹69.45
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24725.60 | SuperTrend: ₹24828.98
+[2025-06-21 18:53:54] INFO: 📊 RSI: 34.0 | ATR: ₹70.13
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 2, Sell Score: 3
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24735.55 | SuperTrend: ₹24828.98
+[2025-06-21 18:53:54] INFO: 📊 RSI: 35.5 | ATR: ₹70.05
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24765.00 | SuperTrend: ₹24828.98
+[2025-06-21 18:53:54] INFO: 📊 RSI: 41.3 | ATR: ₹75.57
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 0, Sell Score: 5
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Overbought
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24763.70 | SuperTrend: ₹24828.98
+[2025-06-21 18:53:54] INFO: 📊 RSI: 74.6 | ATR: ₹52.91
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24870.40 | SuperTrend: ₹24828.98
+[2025-06-21 18:53:54] INFO: 📊 RSI: 80.3 | ATR: ₹56.18
+[2025-06-21 18:53:54] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:54] INFO:    Account: ₹19,746.10
+[2025-06-21 18:53:54] INFO:    Price: ₹24870.40
+[2025-06-21 18:53:54] INFO:    ATR: ₹248.70
+[2025-06-21 18:53:54] INFO:    Confidence: 33.3%
+[2025-06-21 18:53:54] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:54] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:54] INFO:    Margin: ₹4,974.08
+[2025-06-21 18:53:54] INFO:    Trade Value: ₹24,870.40
+[2025-06-21 18:53:54] INFO:    Risk: 2.5%
+[2025-06-21 18:53:54] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24906.75 | SuperTrend: ₹24703.93
+[2025-06-21 18:53:54] INFO: 📊 RSI: 80.6 | ATR: ₹57.07
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24908.85 | SuperTrend: ₹24703.93
+[2025-06-21 18:53:54] INFO: 📊 RSI: 85.2 | ATR: ₹56.82
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24916.90 | SuperTrend: ₹24717.36
+[2025-06-21 18:53:54] INFO: 📊 RSI: 84.5 | ATR: ₹55.49
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 4, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24940.60 | SuperTrend: ₹24728.83
+[2025-06-21 18:53:54] INFO: 📊 RSI: 85.1 | ATR: ₹57.81
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24934.40 | SuperTrend: ₹24739.92
+[2025-06-21 18:53:54] INFO: 📊 RSI: 83.6 | ATR: ₹57.50
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24947.90 | SuperTrend: ₹24768.47
+[2025-06-21 18:53:54] INFO: 📊 RSI: 85.2 | ATR: ₹58.63
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24961.50 | SuperTrend: ₹24768.47
+[2025-06-21 18:53:54] INFO: 📊 RSI: 83.7 | ATR: ₹57.43
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24936.70 | SuperTrend: ₹24789.24
+[2025-06-21 18:53:54] INFO: 📊 RSI: 82.3 | ATR: ₹56.55
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24950.70 | SuperTrend: ₹24795.69
+[2025-06-21 18:53:54] INFO: 📊 RSI: 90.1 | ATR: ₹55.43
+[2025-06-21 18:53:54] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:54] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:54] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:54] INFO: 💰 Price: ₹24940.95 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:54] INFO: 📊 RSI: 86.0 | ATR: ₹51.43
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24880.40 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 70.7 | ATR: ₹57.48
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking Low
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24851.70 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 62.4 | ATR: ₹52.07
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24900.45 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 67.2 | ATR: ₹51.53
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24878.80 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 51.3 | ATR: ₹46.34
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 58.3%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 7, Sell Score: 0
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bullish, Breaking High
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24894.95 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 48.0 | ATR: ₹43.47
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24855.70 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 41.9 | ATR: ₹43.76
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24844.10 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 39.0 | ATR: ₹42.85
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 4, Sell Score: 0
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24839.45 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 33.8 | ATR: ₹41.06
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24849.20 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 36.5 | ATR: ₹40.29
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24862.35 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 36.5 | ATR: ₹39.55
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24852.00 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 32.5 | ATR: ₹39.05
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24862.40 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 37.6 | ATR: ₹38.25
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 4, Sell Score: 3
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24841.50 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 32.1 | ATR: ₹39.08
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 58.3%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 7, Sell Score: 0
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, MACD Bullish, Breaking High
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24937.80 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 49.6 | ATR: ₹49.51
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24916.95 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 55.2 | ATR: ₹44.22
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24871.50 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 52.7 | ATR: ₹47.66
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: BUY (Confidence: 33.3%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 4, Sell Score: 1
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24837.95 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 41.2 | ATR: ₹46.80
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24804.75 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 39.9 | ATR: ₹49.40
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24804.75 | SuperTrend: ₹24827.86
+[2025-06-21 18:53:55] INFO: 📊 RSI: 39.9 | ATR: ₹49.40
+[2025-06-21 18:53:55] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:55] INFO:    Account: ₹19,680.45
+[2025-06-21 18:53:55] INFO:    Price: ₹24804.75
+[2025-06-21 18:53:55] INFO:    ATR: ₹248.05
+[2025-06-21 18:53:55] INFO:    Confidence: 41.7%
+[2025-06-21 18:53:55] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:55] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:55] INFO:    Margin: ₹4,960.95
+[2025-06-21 18:53:55] INFO:    Trade Value: ₹24,804.75
+[2025-06-21 18:53:55] INFO:    Risk: 2.5%
+[2025-06-21 18:53:55] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24816.35 | SuperTrend: ₹24943.91
+[2025-06-21 18:53:55] INFO: 📊 RSI: 39.1 | ATR: ₹50.39
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 1, Sell Score: 6
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24782.30 | SuperTrend: ₹24943.91
+[2025-06-21 18:53:55] INFO: 📊 RSI: 39.7 | ATR: ₹49.96
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24800.50 | SuperTrend: ₹24943.91
+[2025-06-21 18:53:55] INFO: 📊 RSI: 44.0 | ATR: ₹51.38
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24790.75 | SuperTrend: ₹24943.91
+[2025-06-21 18:53:55] INFO: 📊 RSI: 43.4 | ATR: ₹50.60
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 1, Sell Score: 6
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24776.90 | SuperTrend: ₹24943.91
+[2025-06-21 18:53:55] INFO: 📊 RSI: 40.3 | ATR: ₹51.13
+[2025-06-21 18:53:55] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:55] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:55] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:55] INFO: 💰 Price: ₹24787.05 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:55] INFO: 📊 RSI: 39.8 | ATR: ₹52.57
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24813.05 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:56] INFO: 📊 RSI: 44.9 | ATR: ₹53.52
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 5
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24798.75 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:56] INFO: 📊 RSI: 41.8 | ATR: ₹53.69
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24839.60 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:56] INFO: 📊 RSI: 49.8 | ATR: ₹58.64
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24833.20 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:56] INFO: 📊 RSI: 33.6 | ATR: ₹50.25
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 25.0%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 3
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24813.05 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:56] INFO: 📊 RSI: 33.6 | ATR: ₹50.05
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24814.55 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:56] INFO: 📊 RSI: 39.6 | ATR: ₹45.46
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24799.50 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:56] INFO: 📊 RSI: 42.5 | ATR: ₹43.97
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24811.80 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:56] INFO: 📊 RSI: 51.5 | ATR: ₹40.64
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, Breaking Low
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24792.60 | SuperTrend: ₹24916.52
+[2025-06-21 18:53:56] INFO: 📊 RSI: 45.1 | ATR: ₹39.35
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 0, Sell Score: 5
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24794.55 | SuperTrend: ₹24911.60
+[2025-06-21 18:53:56] INFO: 📊 RSI: 52.9 | ATR: ₹39.27
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 2, Sell Score: 5
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24789.20 | SuperTrend: ₹24905.51
+[2025-06-21 18:53:56] INFO: 📊 RSI: 47.1 | ATR: ₹37.75
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24832.40 | SuperTrend: ₹24905.51
+[2025-06-21 18:53:56] INFO: 📊 RSI: 59.0 | ATR: ₹39.90
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 0, Sell Score: 5
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24804.70 | SuperTrend: ₹24905.51
+[2025-06-21 18:53:56] INFO: 📊 RSI: 55.7 | ATR: ₹42.22
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 0, Sell Score: 5
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking Low
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24791.75 | SuperTrend: ₹24905.51
+[2025-06-21 18:53:56] INFO: 📊 RSI: 51.0 | ATR: ₹40.88
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 50.0%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 6
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bullish Zone, MACD Bearish, Breaking Low
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24744.70 | SuperTrend: ₹24881.15
+[2025-06-21 18:53:56] INFO: 📊 RSI: 37.2 | ATR: ₹42.74
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: SELL (Confidence: 33.3%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 1, Sell Score: 4
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bearish, RSI Bearish Zone, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24874.35 | SuperTrend: ₹24881.15
+[2025-06-21 18:53:56] INFO: 📊 RSI: 59.9 | ATR: ₹50.49
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 6, Sell Score: 1
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹24919.05 | SuperTrend: ₹24881.15
+[2025-06-21 18:53:56] INFO: 📊 RSI: 60.3 | ATR: ₹47.79
+[2025-06-21 18:53:56] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:56] INFO:    Account: ₹19,566.15
+[2025-06-21 18:53:56] INFO:    Price: ₹24919.05
+[2025-06-21 18:53:56] INFO:    ATR: ₹249.19
+[2025-06-21 18:53:56] INFO:    Confidence: 50.0%
+[2025-06-21 18:53:56] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:56] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:56] INFO:    Margin: ₹4,983.81
+[2025-06-21 18:53:56] INFO:    Trade Value: ₹24,919.05
+[2025-06-21 18:53:56] INFO:    Risk: 2.5%
+[2025-06-21 18:53:56] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹25001.60 | SuperTrend: ₹24791.97
+[2025-06-21 18:53:56] INFO: 📊 RSI: 68.2 | ATR: ₹52.89
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹25016.55 | SuperTrend: ₹24818.46
+[2025-06-21 18:53:56] INFO: 📊 RSI: 72.2 | ATR: ₹52.19
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹25019.40 | SuperTrend: ₹24832.40
+[2025-06-21 18:53:56] INFO: 📊 RSI: 72.3 | ATR: ₹53.61
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹25040.10 | SuperTrend: ₹24837.89
+[2025-06-21 18:53:56] INFO: 📊 RSI: 75.9 | ATR: ₹53.71
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 5, Sell Score: 1
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Bearish Zone, MACD Bullish
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹25000.90 | SuperTrend: ₹24837.89
+[2025-06-21 18:53:56] INFO: 📊 RSI: 69.2 | ATR: ₹57.56
+[2025-06-21 18:53:56] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:56] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:56] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:56] INFO: 💰 Price: ₹25038.25 | SuperTrend: ₹24837.89
+[2025-06-21 18:53:56] INFO: 📊 RSI: 74.1 | ATR: ₹59.20
+[2025-06-21 18:53:57] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:57] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:57] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:57] INFO: 💰 Price: ₹25047.55 | SuperTrend: ₹24855.36
+[2025-06-21 18:53:57] INFO: 📊 RSI: 74.4 | ATR: ₹59.80
+[2025-06-21 18:53:57] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:57] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:57] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:57] INFO: 💰 Price: ₹25049.65 | SuperTrend: ₹24861.19
+[2025-06-21 18:53:57] INFO: 📊 RSI: 75.3 | ATR: ₹60.08
+[2025-06-21 18:53:57] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:57] INFO: 📈 Buy Score: 5, Sell Score: 3
+[2025-06-21 18:53:57] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking Low
+[2025-06-21 18:53:57] INFO: 💰 Price: ₹25046.05 | SuperTrend: ₹24891.26
+[2025-06-21 18:53:57] INFO: 📊 RSI: 72.5 | ATR: ₹58.26
+[2025-06-21 18:53:57] INFO: 📊 Enhanced Signal: BUY (Confidence: 50.0%)
+[2025-06-21 18:53:57] INFO: 📈 Buy Score: 6, Sell Score: 2
+[2025-06-21 18:53:57] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish, Breaking High
+[2025-06-21 18:53:57] INFO: 💰 Price: ₹25116.60 | SuperTrend: ₹24916.76
+[2025-06-21 18:53:57] INFO: 📊 RSI: 80.1 | ATR: ₹61.04
+[2025-06-21 18:53:57] INFO: 💰 Position Sizing for NIFTYBEES:
+[2025-06-21 18:53:57] INFO:    Account: ₹19,763.70
+[2025-06-21 18:53:57] INFO:    Price: ₹25116.60
+[2025-06-21 18:53:57] INFO:    ATR: ₹251.17
+[2025-06-21 18:53:57] INFO:    Confidence: 50.0%
+[2025-06-21 18:53:57] INFO: 📊 Calculated Position:
+[2025-06-21 18:53:57] INFO:    Quantity: 1 shares
+[2025-06-21 18:53:57] INFO:    Margin: ₹5,023.32
+[2025-06-21 18:53:57] INFO:    Trade Value: ₹25,116.60
+[2025-06-21 18:53:57] INFO:    Risk: 2.5%
+[2025-06-21 18:53:57] INFO:    Leverage: 5.0x
+[2025-06-21 18:53:57] INFO: 📊 Enhanced Signal: BUY (Confidence: 41.7%)
+[2025-06-21 18:53:57] INFO: 📈 Buy Score: 5, Sell Score: 2
+[2025-06-21 18:53:57] INFO: 🔍 Confirmations: SuperTrend Bullish, RSI Overbought, MACD Bullish
+[2025-06-21 18:53:57] INFO: 💰 Price: ₹25079.75 | SuperTrend: ₹24956.45
+[2025-06-21 18:53:57] INFO: 📊 RSI: 76.6 | ATR: ₹63.56
+[2025-06-21 18:53:57] INFO: ✅ Backtest completed
+[2025-06-21 18:53:57] INFO: 📊 Total trades: 18
+[2025-06-21 18:53:57] INFO: 🎯 Win rate: 3333.3%
+[2025-06-21 18:53:57] INFO: 💰 Total return: -136.6%
+[2025-06-21 18:53:57] INFO: 📉 Max drawdown: 2919.6%

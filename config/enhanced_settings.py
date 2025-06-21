@@ -50,7 +50,7 @@ ENHANCED_STRATEGY_CONFIG = {
     'volatility_adjustment': True,   # Adjust for market volatility
     
     # Account settings (update these with your values)
-    'account_balance': 5000.0,       # Your trading capital
+    'account_balance': 20000.0,       # Your trading capital
     'check_interval': 30,            # Check every 30 seconds
 }
 
