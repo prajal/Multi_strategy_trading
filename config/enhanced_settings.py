@@ -1,20 +1,16 @@
-# Create these files in the specified order to fix the import errors
-
-# =============================================================================
-# FILE 1: config/enhanced_settings.py
-# =============================================================================
+# config/enhanced_settings.py - FIXED VERSION WITH IMPROVED SIGNAL QUALITY
 
 # Enhanced Strategy Configuration Settings
 
 ENHANCED_STRATEGY_CONFIG = {
-    # SuperTrend settings
+    # SuperTrend settings - More conservative
     'supertrend_period': 10,
-    'supertrend_factor': 3.0,
+    'supertrend_factor': 3.5,  # Increased from 3.0
     
-    # RSI settings
+    # RSI settings - More extreme levels
     'rsi_period': 14,
-    'rsi_oversold': 30,
-    'rsi_overbought': 70,
+    'rsi_oversold': 25,        # More extreme from 30
+    'rsi_overbought': 75,      # More extreme from 70
     
     # MACD settings
     'macd_fast': 12,
@@ -25,93 +21,113 @@ ENHANCED_STRATEGY_CONFIG = {
     'bb_period': 20,
     'bb_std': 2,
     
-    # Volume settings
+    # Volume settings - Higher threshold
     'volume_period': 20,
-    'volume_threshold': 1.5,  # 1.5x average volume
+    'volume_threshold': 2.0,   # Increased from 1.5
     
     # Support/Resistance settings
     'sr_period': 20,
     
-    # Signal confirmation
-    'min_confirmations': 3,  # Minimum score to generate signal
+    # Signal confirmation - Higher threshold
+    'min_confirmations': 4,    # Increased from 3
     
-    # Risk management
-    'max_risk_per_trade': 2.0,      # 2% of capital
-    'max_daily_loss': 5.0,          # 5% daily loss limit
-    'stop_loss_atr_multiple': 2.0,   # 2x ATR for stop loss
-    'take_profit_risk_ratio': 2.0,   # 2:1 risk-reward ratio
-    'max_drawdown_limit': 10.0,      # 10% max drawdown
-    'max_position_value': 20.0,      # 20% max position size
-    'max_trades_per_day': 5,         # Max 5 trades per day
+    # Risk management - More conservative
+    'max_risk_per_trade': 1.5,     # Reduced from 2.0
+    'max_daily_loss': 4.0,         # Reduced from 5.0
+    'stop_loss_atr_multiple': 2.5, # Increased from 2.0
+    'take_profit_risk_ratio': 2.5, # Increased from 2.0
+    'max_drawdown_limit': 8.0,     # Reduced from 10.0
+    'max_position_value': 15.0,    # Reduced from 20.0
+    'max_trades_per_day': 3,       # Reduced from 5
     
-    # Position sizing
-    'base_position_size': 0.8,       # 80% of available capital
-    'confidence_multiplier': True,   # Scale position by signal confidence
-    'volatility_adjustment': True,   # Adjust for market volatility
+    # Position sizing - More conservative
+    'base_position_size': 0.6,     # Reduced from 0.8
+    'confidence_multiplier': True,
+    'volatility_adjustment': True,
     
-    # Account settings (update these with your values)
-    'account_balance': 20000.0,       # Your trading capital
-    'check_interval': 30,            # Check every 30 seconds
+    # Account settings
+    'account_balance': 20000.0,
+    'check_interval': 45,          # Increased from 30
+    
+    # NEW: Market regime settings
+    'regime_filter_enabled': True,
+    'min_hold_time_hours': 2,      # Minimum hold time
+    'signal_reversal_threshold': 0.65,  # Require 65% confidence for reversal
 }
 
-# Different strategy profiles for different risk appetites
+# Updated strategy profiles with better risk management
 STRATEGY_PROFILES = {
     'conservative': {
         **ENHANCED_STRATEGY_CONFIG,
-        'min_confirmations': 4,
-        'supertrend_factor': 3.5,
-        'rsi_oversold': 25,
-        'rsi_overbought': 75,
-        'volume_threshold': 2.0,
-        'base_position_size': 0.6,
-        'max_risk_per_trade': 1.5,
+        'min_confirmations': 5,        # Very high threshold
+        'supertrend_factor': 4.0,      # Very conservative
+        'rsi_oversold': 20,            # Extreme levels
+        'rsi_overbought': 80,
+        'volume_threshold': 2.5,       # High volume requirement
+        'base_position_size': 0.4,     # Small positions
+        'max_risk_per_trade': 1.0,     # Low risk
         'max_daily_loss': 3.0,
-        'max_trades_per_day': 3,
+        'max_trades_per_day': 2,       # Very selective
+        'check_interval': 60,          # Slow checking
+        'signal_reversal_threshold': 0.75,  # Very high reversal threshold
     },
     
     'balanced': {
         **ENHANCED_STRATEGY_CONFIG,
-        # Uses default settings - good balance of risk/reward
+        'min_confirmations': 4,        # High threshold
+        'supertrend_factor': 3.5,      # Conservative
+        'rsi_oversold': 25,            # More extreme
+        'rsi_overbought': 75,
+        'volume_threshold': 2.0,       # Higher volume
+        'base_position_size': 0.6,     # Moderate positions
+        'max_risk_per_trade': 1.5,     # Moderate risk
+        'max_daily_loss': 4.0,
+        'max_trades_per_day': 3,       # Selective
+        'check_interval': 45,          # Moderate checking
+        'signal_reversal_threshold': 0.65,  # High reversal threshold
     },
     
     'aggressive': {
         **ENHANCED_STRATEGY_CONFIG,
-        'min_confirmations': 2,
-        'supertrend_factor': 2.5,
-        'rsi_oversold': 35,
-        'rsi_overbought': 65,
-        'volume_threshold': 1.2,
-        'base_position_size': 1.0,
-        'max_risk_per_trade': 3.0,
-        'max_daily_loss': 7.0,
-        'max_trades_per_day': 8,
+        'min_confirmations': 3,        # Still require 3+ but improve other filters
+        'supertrend_factor': 3.0,      # Less conservative than before
+        'rsi_oversold': 30,            # Standard levels
+        'rsi_overbought': 70,
+        'volume_threshold': 1.8,       # Higher than original
+        'base_position_size': 0.8,     # Larger positions
+        'max_risk_per_trade': 2.0,     # Higher risk
+        'max_daily_loss': 5.0,
+        'max_trades_per_day': 5,       # More trades
+        'check_interval': 30,          # Standard checking
+        'signal_reversal_threshold': 0.55,  # Lower reversal threshold
     },
     
     'scalping': {
         **ENHANCED_STRATEGY_CONFIG,
         'supertrend_period': 7,
-        'supertrend_factor': 2.0,
+        'supertrend_factor': 2.5,      # More sensitive but with other filters
         'rsi_period': 9,
-        'min_confirmations': 2,
+        'min_confirmations': 3,        # Keep low but add quality filters
         'bb_period': 15,
-        'volume_threshold': 1.8,
-        'base_position_size': 0.5,
-        'max_risk_per_trade': 1.0,
-        'max_trades_per_day': 15,
-        'check_interval': 15,  # Check every 15 seconds
+        'volume_threshold': 2.2,       # High volume for scalping
+        'base_position_size': 0.4,     # Small positions for frequent trading
+        'max_risk_per_trade': 1.0,     # Low risk per trade
+        'max_trades_per_day': 8,       # Allow more trades
+        'check_interval': 20,          # Faster checking
+        'signal_reversal_threshold': 0.60,  # Moderate reversal threshold
     }
 }
 
-# Market hours configuration
+# Market hours configuration (unchanged)
 MARKET_CONFIG = {
     'market_open_time': '09:15',
     'market_close_time': '15:30',
-    'auto_square_off_time': '15:15',  # Close positions 15 min before market close
+    'auto_square_off_time': '15:15',
     'pre_market_start': '09:00',
-    'trading_days': [0, 1, 2, 3, 4],  # Monday to Friday
+    'trading_days': [0, 1, 2, 3, 4],
 }
 
-# Instruments configuration with their tokens
+# Instruments configuration (unchanged)
 INSTRUMENTS = {
     'NIFTY_50': {
         'token': '256265',
